@@ -64,7 +64,7 @@ class GradeDocumenr(BaseModel):
 # Константы для единообразия
 DOCS_KEY = "documents"
 GO_FLAG  = "proceed_to_generate"
-MAX_REPHRASES = 2
+MAX_REPHRASES = 1
 
 
 # ================== REWRITE ==================
@@ -118,7 +118,7 @@ def question_rewriter(state: AgentState):
     if state["question"] not in state["messages"]:
         state["messages"].append(state["question"])
 
-    # --- 3) Перефраз
+    # 3) Перефразирование вопроса
     if len(state["messages"]) > 1:
         current_question = state["question"].content
 
@@ -169,19 +169,39 @@ def question_rewriter(state: AgentState):
     decision = interrupt(payload)
 
     #  Обработка решения: approve_rephrased / use_original / edit (или быстрая правка строкой)
-    if isinstance(decision, str) and decision.strip():
-        state["rephrased_question"] = decision.strip()
+    if isinstance(decision, str):
+        dec_raw = decision.strip()
+        dec = dec_raw.lower()
+
+        if dec in ("approve", "approve_rephrased", "ok", "да"):
+            # оставляем перефраз как есть
+            pass
+        elif dec in ("orig", "use_original", "original"):
+            state["rephrased_question"] = original
+        elif dec.startswith("edit:"):
+            edited = dec_raw.split("edit:", 1)[1].strip()
+            if edited:
+                state["rephrased_question"] = edited
+        else:
+            # неизвестная команда — ничего не меняем
+            pass
+
     elif isinstance(decision, dict):
         act = str(decision.get("decision", "")).lower()
-        if act == "approve_rephrased":
-            pass  # оставляем rephr как есть
-        elif act == "use_original":
+        if act in ("approve", "approve_rephrased"):
+            pass
+        elif act in ("use_original", "orig", "original"):
             state["rephrased_question"] = original
         elif act == "edit":
             edited = (decision.get("edited_question") or "").strip()
             if edited:
                 state["rephrased_question"] = edited
-        # прочие варианты игнорируем, оставляем текущий rephr
+        else:
+            # поддержим случай, когда прилетела только edited_question без decision
+            edited = (decision.get("edited_question") or "").strip()
+            if edited:
+                state["rephrased_question"] = edited
+            # прочие варианты игнорируем, оставляем текущий rephr
 
     return state
 
@@ -351,7 +371,7 @@ def retrieval_grader(state: AgentState) -> AgentState:
         hm = HumanMessage(content=f"User question:\n{state['rephrased_question']}\n\nRetrieved document:\n{d.page_content}")
         prompt = ChatPromptTemplate.from_messages([sys, hm]).format_messages()
         try:
-            res = llm_gpt_oss_120b.invoke(prompt)
+            res = llm_gpt_oss_20b.invoke(prompt)
             ans = (res.content or "").strip().lower()
         except Exception as e:
             print(f"[retrieval_grader] provider error: {e!r}; fallback 'no'")
