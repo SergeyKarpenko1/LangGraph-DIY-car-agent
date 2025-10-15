@@ -1,8 +1,7 @@
 [project]
 name = "deteiling-agent"
 version = "0.1.0"
-description =
-""" Deteiling Agent is an AI assistant for DIY deteiling and car care. 
+description =""" Deteiling Agent is an AI assistant for DIY deteiling and car care. 
 The project is based on a combination of LangChain + LangGraph 
 and uses hybrid knowledge extraction from its own vector database and web search.
 """
