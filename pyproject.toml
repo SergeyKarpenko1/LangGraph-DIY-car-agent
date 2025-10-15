@@ -1,7 +1,12 @@
 [project]
 name = "deteiling-agent"
 version = "0.1.0"
-description = "Add your description here"
+description =
+
+ "Deteiling Agent is an AI assistant for DIY deteiling and car care. 
+The project is based on a combination of LangChain + LangGraph 
+and uses hybrid knowledge extraction from its own vector database and web search. "
+
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
