@@ -1,0 +1,8 @@
+{
+    "editor.formatOnSave": true,
+    "notebook.codeActionsOnSave": {},
+    "files.autoSave": "afterDelay",
+    "javascript.preferences.organizeImports": {
+        
+    }
+}
