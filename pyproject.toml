@@ -16,6 +16,7 @@ dependencies = [
     "langchain-tavily>=0.2.12",
     "langgraph>=0.6.10",
     "markdown>=3.9",
+    "ragas>=0.4.0",
     "rank-bm25>=0.2.2",
     "sentence-transformers>=5.1.1",
     "unstructured>=0.18.15",
