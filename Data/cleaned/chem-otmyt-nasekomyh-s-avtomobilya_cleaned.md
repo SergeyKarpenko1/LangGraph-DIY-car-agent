@@ -7,11 +7,6 @@
 Поверхность должна быть влажной 
 Чем отмыть следы от насекомых на автомобиле? Стоит взять влажное полотенце. На поверхность нанести нужное средство, а сверху положить полотенце. Далее нужно подождать несколько минут. Затем убирают полотенце и качественно промывают кузов водой и смывают остатки насекомых губкой. Ее также нужно правильно выбрать. Обычная для кухни не подходит. Ею можно поцарапать ЛКП.
 
-Ссылки
-- https://sappo.ru/blog/sam-sebe-detailer/chem-otmyt-nasekomyh-s-avtomobilya/<https:/sappo.ru/product/shine_systems_glasscleaner_universalnyy_ochistitel_stekol_750_ml/
-- https://sappo.ru/blog/sam-sebe-detailer/chem-otmyt-nasekomyh-s-avtomobilya/<https:/sappo.ru/product/shine_systems_glossyglass_ekspress_ochistitel_stekol_750ml/
-- https://sappo.ru/blog/sam-sebe-detailer/chem-otmyt-nasekomyh-s-avtomobilya/<https:/sappo.ru/product/reine_glas_sredstvo_dlya_stekol_5_kg_borger/
-- https://sappo.ru/blog/sam-sebe-detailer/chem-otmyt-nasekomyh-s-avtomobilya/<https:/sappo.ru/product/citrus_glass_universalnyy_ochistitel_styekol_500_ml_foam_heroes/
 
 ====
 О подручных средствах
@@ -28,8 +23,6 @@ Fairy для кухни
 Уайт-спирит
 Если вы не смогли справиться обычными средствами для кухонной посуды, можно использовать растворители. Уайт-спирит похож на керосин. Он может растворить жир, масло, составы на основе нефти, биопятна. Но не стоит оставлять его на поверхности длительное время, иначе можно испортить ЛКП. После смачивания качественно смойте все. Однако лучше вовсе не пользоваться растворителем, так как велика вероятность повредить лак.
 
-Ссылки
-- https://sappo.ru/blog/sam-sebe-detailer/chem-otmyt-nasekomyh-s-avtomobilya/<https:/sappo.ru/catalog/moyka_i_ukhod/eksterer/ochistiteli/24467/
 
 ====
 Специальные средства для мытья стекол автомобиля от насекомых
@@ -38,9 +31,6 @@ Fairy для кухни
 - ASTROhim — отличный вариант. Он сможет удалить засохшие старые пятна, не повреждает ЛКП, разводы не образует.
 - Mannol Universal Cleaner — относят к универсальным распылителям. Состав не разводится водой, а сразу наносится на поверхность.
 
-Ссылки
-- https://sappo.ru/blog/sam-sebe-detailer/chem-otmyt-nasekomyh-s-avtomobilya/<https:/sappo.ru/catalog/moyka_i_ukhod/eksterer/ochistiteli/22295/
-- https://sappo.ru/blog/sam-sebe-detailer/chem-otmyt-nasekomyh-s-avtomobilya/<https:/sappo.ru/product/astrohim_ac_396_ochistitel_bitumnykh_pyaten_5_l_/
 
 ====
 Когда нужно избавляться от следов насекомых на машине?

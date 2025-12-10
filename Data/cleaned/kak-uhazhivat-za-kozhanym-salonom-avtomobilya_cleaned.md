@@ -97,11 +97,5 @@
 Использовать специальные аксессуары для перевозки домашних животных. 
 : Sappo
 
-Ссылки
-- https://sappo.ru/blog/sam-sebe-detailer/kak-uhazhivat-za-kozhanym-salonom-avtomobilya/</catalog/aksessuary/mikrofibry_gubki_salfetki/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-uhazhivat-za-kozhanym-salonom-avtomobilya/</catalog/aksessuary/kisti_shchetki_sgony_i_skrebki/filter/1626-is-c628a7691e221e4d872f4814a1381424/apply/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-uhazhivat-za-kozhanym-salonom-avtomobilya/</catalog/moyka_i_ukhod/interer/ukhod_za_kozhey/filter/tipy_sredstv_dlya_kozhi-is-3b9e839ba290646fba50a0b99c741490/apply/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-uhazhivat-za-kozhanym-salonom-avtomobilya/</catalog/moyka_i_ukhod/interer/ukhod_za_kozhey/filter/tipy_sredstv_dlya_kozhi-is-15bc260cd25ec08c92bff7d4a34fb82d/apply/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-uhazhivat-za-kozhanym-salonom-avtomobilya/</product/sredstvo_dlya_chistki_kozhi_leather_ultimate_cleaner_biocare_formula_200ml_v_penoobrazovatele_letech/
 
 ====

@@ -15,14 +15,6 @@ avtomobilnye-shampuni-1-fazy.jpg
 Либо пеногенератор Axel 3000 от компании Marolex. 
 
 
-Ссылки
-- https://sappo.ru/blog/obzory-tovarov/moyka-avtomobilya-v-zimnee-vremya/
-- https://sappo.ru/blog/obzory-tovarov/moyka-avtomobilya-v-zimnee-vremya/<https:/sappo.ru/catalog/moyka_i_ukhod/eksterer/pervichnye_shampuni/24343/
-- https://sappo.ru/blog/obzory-tovarov/moyka-avtomobilya-v-zimnee-vremya/<https:/sappo.ru/catalog/moyka_i_ukhod/eksterer/pervichnye_shampuni/23623/
-- https://sappo.ru/blog/obzory-tovarov/moyka-avtomobilya-v-zimnee-vremya/<https:/sappo.ru/catalog/moyka_i_ukhod/eksterer/pervichnye_shampuni/23133/
-- https://sappo.ru/blog/obzory-tovarov/moyka-avtomobilya-v-zimnee-vremya/<https:/sappo.ru/catalog/moyka_i_ukhod/eksterer/pervichnye_shampuni/22590/
-- https://sappo.ru/blog/obzory-tovarov/moyka-avtomobilya-v-zimnee-vremya/<https:/sappo.ru/catalog/aksessuary/triggery_raspylitelib_emkosti_i_vedra/28398/
-- https://sappo.ru/blog/obzory-tovarov/moyka-avtomobilya-v-zimnee-vremya/<https:/sappo.ru/catalog/aksessuary/triggery_raspylitelib_emkosti_i_vedra/27269/
 
 ====
 Второй вариант мойки
@@ -39,9 +31,6 @@ avtomobilnye-shampuni-1-fazy.jpg
 Однако помимо «статики» на кузове будут находиться в некотором количестве битум и металлические вкрапления. Да и диски с резиной обычная «первичка» идеально очистить не в состоянии… 
 В одной из наших публикаций мы уже подробно рассказывали, как можно полностью очистить шины и колесные диски, поэтому просто немного повторимся.
 
-Ссылки
-- https://sappo.ru/blog/obzory-tovarov/moyka-avtomobilya-v-zimnee-vremya/<https:/sappo.ru/catalog/aksessuary/triggery_raspylitelib_emkosti_i_vedra/24824/
-- https://sappo.ru/blog/obzory-tovarov/moyka-avtomobilya-v-zimnee-vremya/<https:/sappo.ru/catalog/moyka_i_ukhod/eksterer/pervichnye_shampuni/24746/
 
 ====
 Вся косметика для колес делится на три категории: 
@@ -54,12 +43,4 @@ universalnye-ochistiteli-koles.jpg
 [](https://sappo.ru/blog/obzory-tovarov/moyka-avtomobilya-v-zimnee-vremya/<https:/sappo.ru/catalog/moyka_i_ukhod/eksterer/pokryshki_vneshniy_plastik_uplotniteli/21912/ очистителями совершенно не сложно. Составы от производителей разных фирм продаются, как правило, уже готовыми к применению и разбавления водой не требуют. Единственное условие — наносить различную химию на колесные диски необходимо только после того, как они остынут. 
 Нанесите небольшое количество очистителя на колесный диск. Дайте несколько минут составу «поработать» самостоятельно (многие очистители колесных дисков имеют цветовую индикацию своей работы). После чего хорошо промойте колеса водой. 
 
-Ссылки
-- https://sappo.ru/blog/obzory-tovarov/moyka-avtomobilya-v-zimnee-vremya/<https:/sappo.ru/catalog/moyka_i_ukhod/eksterer/pokryshki_vneshniy_plastik_uplotniteli/27873/
-- https://sappo.ru/blog/obzory-tovarov/moyka-avtomobilya-v-zimnee-vremya/<https:/sappo.ru/catalog/moyka_i_ukhod/eksterer/ukhod_za_diskami/24371/
-- https://sappo.ru/blog/obzory-tovarov/moyka-avtomobilya-v-zimnee-vremya/<https:/sappo.ru/catalog/moyka_i_ukhod/eksterer/ukhod_za_diskami/24390/
-- https://sappo.ru/blog/obzory-tovarov/moyka-avtomobilya-v-zimnee-vremya/<https:/sappo.ru/catalog/moyka_i_ukhod/eksterer/ukhod_za_diskami/23436/
-- https://sappo.ru/blog/obzory-tovarov/moyka-avtomobilya-v-zimnee-vremya/<https:/sappo.ru/catalog/moyka_i_ukhod/eksterer/ukhod_za_diskami/26546/
-- https://sappo.ru/blog/obzory-tovarov/moyka-avtomobilya-v-zimnee-vremya/<https:/sappo.ru/catalog/moyka_i_ukhod/eksterer/ukhod_za_diskami/23460/
-- https://sappo.ru/blog/obzory-tovarov/moyka-avtomobilya-v-zimnee-vremya/<https:/sappo.ru/brands/shine-systems/
 ====

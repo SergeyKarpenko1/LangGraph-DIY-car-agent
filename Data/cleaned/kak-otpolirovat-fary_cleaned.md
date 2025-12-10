@@ -50,19 +50,5 @@
 Эффективного результата можно добиться, если совмещать ручную и машинную полировку. Однако, если вы не уверены в своих силах, стоит доверить работникам автосервиса выполнение такой операции. 
 : Sappo
 
-Ссылки
-- https://sappo.ru/blog/sam-sebe-detailer/kak-otpolirovat-fary/
-- 
-- 
-- 
-- 
-- 
-- https://sappo.ru/blog/sam-sebe-detailer/kak-otpolirovat-fary/<https:/sappo.ru/catalog/polirovka/malyarnye_lenty_i_skotchi/32450/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-otpolirovat-fary/<https:/sappo.ru/product/abrazivnaya_gubka_fine_98x120x13_mm_q1/
-- 
-- 
-- 
-- https://sappo.ru/blog/sam-sebe-detailer/kak-otpolirovat-fary/<https:/sappo.ru/catalog/polirovka/krugi_i_podlozhki/344704/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-otpolirovat-fary/<https:/sappo.ru/catalog/polirovka/krugi_i_podlozhki/344651/
 
 ====

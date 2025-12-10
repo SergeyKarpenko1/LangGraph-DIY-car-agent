@@ -8,13 +8,6 @@
 - Силанты (Полирующий силант Tripple 250 мл, Auto Finesse) - зачастую, это составы которые придают отличный глянец, водоотталкивающие свойства и даже устраняют мелкие царапины на ЛКП всего за 1 рабочую операцию! Основой будет служить связка из карнаубы, абразива и определенных растворителей (по заверениям производителей, именно растворители могут удалить некоторые загрязнения которые не ушли в процессе мойки). Воск - придаст отличный блеск, абразив - устранит мелкие царапины на поверхности, а растворители - устранят сложные загрязнения. Силант можно наносить с помощью аппликатора и полировальной машинки (желательно эксцентриковой). Также, силант является основным элементом для воскового пирога, в процессе нанесения которого происходит наслоение составов. Цена силантов относительно высокая, визуальный и тактильный эффект отличный, срок службы примерно 3-4 месяца. 
 - Полировальная паста с воском (One Cut & Finish P6.02 - высокоглянцевая полировальная паста с защитным эффектом 250 мл, Koch Chemie) - не стоит забывать, что для машинного применения стоит рассмотреть такой продукт. Простота заключается в том, что воск в пасте заполняет глубокие царапины (они становятся мало заметными), а абразив поможет устранить небольшие повреждения (обычно, это среднеабразивные пасты DAT системы). Тем самым, за один подход можно быстро привести в порядок автомобиль. Примите во внимание тот факт, что воск постепенно начнет «вымываться» из тех самых царапин. Стоимость за упаковку в 250 мл. составит порядка 1.800₽
 
-Ссылки
-- https://sappo.ru/blog/sam-sebe-detailer/vosk-dlya-avtomobilya-kak-ego-pravilno-nanosit-i-zachem-nuzhen/<https:/sappo.ru/product/authentic_premium_vosk_karnauba_83_zashchita_kuzova_soft99_200_gr_/
-- https://sappo.ru/blog/sam-sebe-detailer/vosk-dlya-avtomobilya-kak-ego-pravilno-nanosit-i-zachem-nuzhen/<https:/sappo.ru/product/fusso_coat_12_l_polimernaya_zashchitnaya_polirol_soft99_teflon_dlya_cvetlogo_tsveta_200_gr_/
-- https://sappo.ru/blog/sam-sebe-detailer/vosk-dlya-avtomobilya-kak-ego-pravilno-nanosit-i-zachem-nuzhen/<https:/sappo.ru/product/mini_vosk_karauba_fusion_t1_sio2_15_ml_fireball/
-- https://sappo.ru/blog/sam-sebe-detailer/vosk-dlya-avtomobilya-kak-ego-pravilno-nanosit-i-zachem-nuzhen/<https:/sappo.ru/product/final_touch_403oz16_0_473_l_sm_3d/
-- https://sappo.ru/blog/sam-sebe-detailer/vosk-dlya-avtomobilya-kak-ego-pravilno-nanosit-i-zachem-nuzhen/<https:/sappo.ru/product/poliruyushchiy_silant_tripple_auto_finesse_tri250_250_ml_/
-- https://sappo.ru/blog/sam-sebe-detailer/vosk-dlya-avtomobilya-kak-ego-pravilno-nanosit-i-zachem-nuzhen/<https:/sappo.ru/product/one_cut_finish_p6_02_vysokoglyantsevaya_polirovalnaya_pasta_s_zashchitnym_effektom_250_ml_koch_chemi/
 
 ====
 Что дает покрытие воском автомобиля?
@@ -41,18 +34,6 @@
 - Устанавливаем полировальный круг на машинку (для таких работ, подойдет полутвердый поролоновый). 
 - Наносим 5-7 мелких горошин и разносим по поверхности путём «прижатия» машинки.  Ограничьтесь площадью в 3 размера круга по вертикали и горизонтали. Начинайте полировать с низких оборотов постепенно повышая их (1800-3000 об. для эксцентриковых и 900-1300 об. для ротационных). Длительность одного подхода составит не более 3 минут! Удалите остатки пасты салфеткой из микрофибры. По-необходимости, продуйте диск сжатым воздухом или почистите синтетической щеткой. По итогу, мы имеем прекрасный глянец как у леденца, хороший гидрофоб и даже небольшие дефекты ЛКП стали менее заметны!
 
-Ссылки
-- https://sappo.ru/blog/sam-sebe-detailer/vosk-dlya-avtomobilya-kak-ego-pravilno-nanosit-i-zachem-nuzhen/<https:/sappo.ru/product/01_safe_pervichnyy_beskontaktnyy_sostav_s_zashchitoy_khroma_1_l_smart_open/
-- https://sappo.ru/blog/sam-sebe-detailer/vosk-dlya-avtomobilya-kak-ego-pravilno-nanosit-i-zachem-nuzhen/<https:/sappo.ru/product/shine_systems_bitumoff_terpenovyy_antibitum_750_ml/
-- https://sappo.ru/blog/sam-sebe-detailer/vosk-dlya-avtomobilya-kak-ego-pravilno-nanosit-i-zachem-nuzhen/<https:/sappo.ru/product/shine_systems_ironoff_beskislotnyy_ochistitel_diskov_s_indikatorom_750_ml/
-- https://sappo.ru/blog/sam-sebe-detailer/vosk-dlya-avtomobilya-kak-ego-pravilno-nanosit-i-zachem-nuzhen/<https:/sappo.ru/product/lu_lubricant_lubrikant_dlya_gliny_500_ml_detail/
-- https://sappo.ru/blog/sam-sebe-detailer/vosk-dlya-avtomobilya-kak-ego-pravilno-nanosit-i-zachem-nuzhen/<https:/sappo.ru/product/abrazivnaya_glina_sredney_zhestkosti_clay_bar_medium_magashiner/
-- https://sappo.ru/blog/sam-sebe-detailer/vosk-dlya-avtomobilya-kak-ego-pravilno-nanosit-i-zachem-nuzhen/<https:/sappo.ru/product/citruscleaner_apelsinovyy_ochistitel_200_ml_shine_systems_/
-- https://sappo.ru/blog/sam-sebe-detailer/vosk-dlya-avtomobilya-kak-ego-pravilno-nanosit-i-zachem-nuzhen/<https:/sappo.ru/product/obezzhirivatel_kuzova_ipa_reborn_500_ml_fireball/
-- https://sappo.ru/blog/sam-sebe-detailer/vosk-dlya-avtomobilya-kak-ego-pravilno-nanosit-i-zachem-nuzhen/<https:/sappo.ru/product/applikator_porolonovyy_round_foamy_sponge_10_sm_megashiner/
-- https://sappo.ru/blog/sam-sebe-detailer/vosk-dlya-avtomobilya-kak-ego-pravilno-nanosit-i-zachem-nuzhen/<https:/sappo.ru/product/polirovalnyy_termostoykiy_porolonovyy_siniy_krug_sredney_zhestkosti_140_20_125_mm_zvizzer/
-- https://sappo.ru/blog/sam-sebe-detailer/vosk-dlya-avtomobilya-kak-ego-pravilno-nanosit-i-zachem-nuzhen/<https:/sappo.ru/product/mikrofibra_universalnaya_unifiber_40x40_sm_400_gr_m2_oranzhevaya_megashiner/
-- https://sappo.ru/blog/sam-sebe-detailer/vosk-dlya-avtomobilya-kak-ego-pravilno-nanosit-i-zachem-nuzhen/<https:/sappo.ru/product/lenta_maskiruyushchaya_masking_tape_30_mm_x_50_m_megashiner/
 
 ====
 Как ухаживать за воском?

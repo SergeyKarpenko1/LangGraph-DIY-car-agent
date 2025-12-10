@@ -17,11 +17,5 @@
 Все вкрапления окрасились и приобрели фиолетовый оттенок. 
 Опять проходимся высокощелочным шампунем из пеногенератора по дискам, а затем окончательно смываем его водой. 
 5) Ну и наконец фиброй удаляем лишнюю воду.
-Ссылки
-- https://sappo.ru/catalog/moyka_i_ukhod/eksterer/ochistiteli/22931/
-- https://sappo.ru/catalog/aksessuary/triggery_raspylitelib_emkosti_i_vedra/24882/
-- https://sappo.ru/catalog/moyka_i_ukhod/eksterer/ukhod_za_diskami/23097/
-- https://sappo.ru/catalog/aksessuary/triggery_raspylitelib_emkosti_i_vedra/27334/
-- https://sappo.ru/catalog/aksessuary/kisti_shchetki_sgony_i_skrebki/28484/
 
 ====

@@ -11,10 +11,6 @@ Display от компании Smart Ope[](https://sappo.ru/blog/obzory-tovarov/d
 С такого рода загрязнениями вам так же способен помочь Perfect Clarity Glass Cleaner за счет «кислотной среды» в своем составе. 
 Если на стеклах вашего автомобиля нанесено защитное покрытие (антидождь), то при использовании Perfect Clarity Glass Cleaner вы сможете восстановить «гидрофоб», который с течением времени «подбивается», и капли начинают уходить с набором большей скорости, чем при его начальном нанесении.
 
-Ссылки
-- https://sappo.ru/blog/obzory-tovarov/dorozhnyy-nabor-avtokosmetiki-dlya-ukhoda-za-avtomobilem-chto-nuzhno-vzyat-s-soboy/<https:/sappo.ru/catalog/moyka_i_ukhod/eksterer/ukhod_za_steklami/22940/
-- 
-- https://sappo.ru/blog/obzory-tovarov/dorozhnyy-nabor-avtokosmetiki-dlya-ukhoda-za-avtomobilem-chto-nuzhno-vzyat-s-soboy/<https:/sappo.ru/catalog/moyka_i_ukhod/eksterer/ukhod_za_steklami/28864/
 
 ====
 Очистители кузова от насекомых
@@ -28,11 +24,6 @@ Display от компании Smart Ope[](https://sappo.ru/blog/obzory-tovarov/d
 Достаточно сделать несколько пшиков на микрофибровую салфетку и убрать загрязнения. 
 Из недорогих очистителей для кузова мы порекомендуем QuickDetailer от компании Shine Systems. Ну а для тех автовладельцев, кто выбирает для ухода за кузовом своего автомобиля премиальные составы, мы порекомендуем компании GYEON с их Q2M Quick Detailer.
 
-Ссылки
-- https://sappo.ru/blog/obzory-tovarov/dorozhnyy-nabor-avtokosmetiki-dlya-ukhoda-za-avtomobilem-chto-nuzhno-vzyat-s-soboy/<https:/sappo.ru/catalog/moyka_i_ukhod/eksterer/ochistiteli/21616/
-- https://sappo.ru/blog/obzory-tovarov/dorozhnyy-nabor-avtokosmetiki-dlya-ukhoda-za-avtomobilem-chto-nuzhno-vzyat-s-soboy/<https:/sappo.ru/catalog/moyka_i_ukhod/eksterer/ochistiteli/22880/
-- https://sappo.ru/blog/obzory-tovarov/dorozhnyy-nabor-avtokosmetiki-dlya-ukhoda-za-avtomobilem-chto-nuzhno-vzyat-s-soboy/<https:/sappo.ru/catalog/moyka_i_ukhod/eksterer/ochistiteli/23100/
-- https://sappo.ru/blog/obzory-tovarov/dorozhnyy-nabor-avtokosmetiki-dlya-ukhoda-za-avtomobilem-chto-nuzhno-vzyat-s-soboy/<https:/sappo.ru/product/gyeon_quickdetailer_q2m_400ml_sostav_dlya_bystrogo_ukhoda_za_vsemi_poverkhnostyami_eksterera/
 
 ====
 Средства для ухода за интерьером
@@ -42,9 +33,5 @@ Display от компании Smart Ope[](https://sappo.ru/blog/obzory-tovarov/d
 В данной линейке автокосметики мы можем рекомендовать к покупке недорогие очистители от российских производителей: Black Line Interior Detailer Pineapple от Shine Systems и IQ Detailer от компании Leraton. 
 А для тех автолюбителей, которые хотят, чтобы пластик их автомобилей смотрелся как на автомобилях премиального сегмента, советуем взять с собой в дорогу Quick & Shine от компании Koch Chemie.
 
-Ссылки
-- https://sappo.ru/blog/obzory-tovarov/dorozhnyy-nabor-avtokosmetiki-dlya-ukhoda-za-avtomobilem-chto-nuzhno-vzyat-s-soboy/<https:/sappo.ru/catalog/moyka_i_ukhod/interer/vnutrenniy_plastik/27758/
-- https://sappo.ru/blog/obzory-tovarov/dorozhnyy-nabor-avtokosmetiki-dlya-ukhoda-za-avtomobilem-chto-nuzhno-vzyat-s-soboy/<https:/sappo.ru/catalog/moyka_i_ukhod/interer/vnutrenniy_plastik/27870/
-- https://sappo.ru/blog/obzory-tovarov/dorozhnyy-nabor-avtokosmetiki-dlya-ukhoda-za-avtomobilem-chto-nuzhno-vzyat-s-soboy/<https:/sappo.ru/catalog/moyka_i_ukhod/interer/vnutrenniy_plastik/24721/
 
 ====

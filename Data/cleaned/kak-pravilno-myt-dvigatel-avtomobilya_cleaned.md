@@ -53,9 +53,4 @@
 Соблюдая простые и нехитрые правила, вы сможете почистить двигатель. А заодно и обеспечить автомобилю продолжительный период безукоризненной работы. 
 : Sappo
 
-Ссылки
-- https://sappo.ru/blog/sam-sebe-detailer/kak-pravilno-myt-dvigatel-avtomobilya/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-pravilno-myt-dvigatel-avtomobilya/</catalog/moyka_i_ukhod/eksterer/moyka_dvigatelya/30459/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-pravilno-myt-dvigatel-avtomobilya/</catalog/moyka_i_ukhod/eksterer/moyka_dvigatelya/344157/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-pravilno-myt-dvigatel-avtomobilya/</catalog/moyka_i_ukhod/eksterer/moyka_dvigatelya/22943/
 ====

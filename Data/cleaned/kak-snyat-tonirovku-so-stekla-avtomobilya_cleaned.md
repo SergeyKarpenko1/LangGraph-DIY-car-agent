@@ -44,22 +44,5 @@
 Если нужны средства, чтобы быстро отодрать тонировку со стекла в авто, обращайтесь в детейлинг магазин SAPPO.RU. Работаем с 2008 года. Готовы помощь со всеми материалами и бытовой химией — так, чтобы ваше авто получало уход премиум-класса. Заказ можно оформить по каталогу интернет-магазина: на сайте есть чат для быстрых онлайн-консультаций. Или приезжайте в один из наших магазинов: в Москве (около метро Савеловская, телефон 8 499 350-11-04) или в Санкт-Петербурге (около метро Московская, 8 800 350-11-04). 
 
 
-Ссылки
-- https://sappo.ru/blog/sam-sebe-detailer/kak-snyat-tonirovku-so-stekla-avtomobilya/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-snyat-tonirovku-so-stekla-avtomobilya/<https:/sappo.ru/product/citruscleaner_apelsinovyy_ochistitel_200_ml_shine_systems_/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-snyat-tonirovku-so-stekla-avtomobilya/<https:/sappo.ru/product/35_glass_scrub_abrazivnyy_ochistitel_dlya_stekla_0_25_mm_smart_open_/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-snyat-tonirovku-so-stekla-avtomobilya/<https:/sappo.ru/product/speedglasscleaner_ochistitel_stekla_koch_chemie_140_ml/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-snyat-tonirovku-so-stekla-avtomobilya/<https:/sappo.ru/product/applikator_dlya_ochistki_stekla_glass_cleaner_block_megashiner/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-snyat-tonirovku-so-stekla-avtomobilya/<https:/sappo.ru/product/17_display_ochistitel_obezzhirivatel_dlya_stekla_0_5_l_smart_open/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-snyat-tonirovku-so-stekla-avtomobilya/<https:/sappo.ru/product/mikrofibra_dlya_stekol_i_zerkal_unifiber_glass_40_x_40_sm_seraya_megashiner/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-snyat-tonirovku-so-stekla-avtomobilya/<https:/sappo.ru/product/abrasiveprep_abrazivnyy_ochistitel_stekla_200ml_shinesystems/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-snyat-tonirovku-so-stekla-avtomobilya/<https:/sappo.ru/product/plastikovyy_skrebok_hti_plastic_blade_3d/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-snyat-tonirovku-so-stekla-avtomobilya/<https:/sappo.ru/product/mikrofibra_universalnaya_unifiber_40x40_sm_400_gr_m2_oranzhevaya_megashiner/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-snyat-tonirovku-so-stekla-avtomobilya/<https:/sappo.ru/product/shpatel_dlya_ochistki_stekol_autech/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-snyat-tonirovku-so-stekla-avtomobilya/<https:/sappo.ru/product/orange_power_apelsinovyy_ochistitel_kleya_i_skotcha_koch_chemie_1l/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-snyat-tonirovku-so-stekla-avtomobilya/<https:/sappo.ru/product/ipa_ppf_spirtovoy_obezzhirivatel_750_ml_shine_systems_/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-snyat-tonirovku-so-stekla-avtomobilya/<https:/sappo.ru/product/perchatki_m_nitrilovye_chernye_100_sht_jetapro/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-snyat-tonirovku-so-stekla-avtomobilya/<https:/sappo.ru/product/butylka_s_raspylitelem_1_l_shiny_garage/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-snyat-tonirovku-so-stekla-avtomobilya/<https:/sappo.ru/product/applikator_fetrovyy_dlya_ochistki_stekol_felt_applicator_smart_open
 
 ====

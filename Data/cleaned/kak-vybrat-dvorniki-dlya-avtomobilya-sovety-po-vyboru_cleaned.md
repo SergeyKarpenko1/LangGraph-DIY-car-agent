@@ -18,8 +18,6 @@
 Как понять, что дворники пора менять? Это необходимо, если стеклоочистители стали оставлять полосы или пропуски, а также если на чистящей поверхности стала трескаться или отслаиваться резина, а при работе слышны скрип или шум. Расскажем о том, какие дворники (щетки стеклоочистителя для автомобиля) лучше выбрать. 
 Своевременная замена и правильный уход за дворниками гарантируют вам отличную видимость и безопасность в любую погоду.
 
-Ссылки
-- https://sappo.ru/blog/sam-sebe-detailer/kak-vybrat-dvorniki-dlya-avtomobilya-sovety-po-vyboru/<https:/sappo.ru/product/denso_hybrid_du_045l_shchetka_stekloochistitelya_gibridnaya_450_mm_/
 
 ====
 Какие стеклоочистители лучше каркасные или бескаркасные или гибридные
@@ -55,10 +53,6 @@
 - важен стильный внешний вид и тишина в работе стеклоочистителей. 
 Если необходима модель длиной 700 мм, рекомендуем Denso Hybrid DU-070L от надежного японского производителя.
 
-Ссылки
-- https://sappo.ru/blog/sam-sebe-detailer/kak-vybrat-dvorniki-dlya-avtomobilya-sovety-po-vyboru/<https:/sappo.ru/product/denso_hybrid_du_048l_shchetka_stekloochistitelya_gibridnaya_475_mm_/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-vybrat-dvorniki-dlya-avtomobilya-sovety-po-vyboru/<https:/sappo.ru/product/denso_hybrid_du_050l_shchetka_stekloochistitelya_gibridnaya_500_mm_/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-vybrat-dvorniki-dlya-avtomobilya-sovety-po-vyboru/<https:/sappo.ru/product/denso_hybrid_du_070l_shchetka_stekloochistitelya_gibridnaya_700_mm_/
 
 ====
 Как правильно ухаживать за щетками стеклоочистителя, что нужно учесть
@@ -94,24 +88,5 @@
 - г. Санкт-Петербург, ул. Типанова, д. 21, 2 этаж, Торговый центр «Питер»: телефон 8 800 350-11-04, электронный адрес для связи — info@sappo.ru.  
 : Sappo
 
-Ссылки
-- https://sappo.ru/blog/sam-sebe-detailer/kak-vybrat-dvorniki-dlya-avtomobilya-sovety-po-vyboru/<https:/sappo.ru/product/mikrofibra_dlya_stekol_i_zerkal_unifiber_glass_40_x_40_sm_seraya_megashiner/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-vybrat-dvorniki-dlya-avtomobilya-sovety-po-vyboru/<https:/sappo.ru/product/ochistitel_dlya_stekla_clarify_500_ml_carpro/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-vybrat-dvorniki-dlya-avtomobilya-sovety-po-vyboru/<https:/sappo.ru/product/gl_glass_clean_polirol_stekla_250_ml_detail/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-vybrat-dvorniki-dlya-avtomobilya-sovety-po-vyboru/<https:/sappo.ru/product/cp_70_ochistitel_dlya_stekla_vodnykh_pyaten_spotless_2_0_500_ml_carpro/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-vybrat-dvorniki-dlya-avtomobilya-sovety-po-vyboru/<https:/sappo.ru/product/applikator_dlya_ochistki_stekla_glass_cleaner_block_megashiner/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-vybrat-dvorniki-dlya-avtomobilya-sovety-po-vyboru/<https:/sappo.ru/product/antidozhd_glaco_ultra_polirol_pokrytie_dlya_stekla_70_ml/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-vybrat-dvorniki-dlya-avtomobilya-sovety-po-vyboru/<https:/sappo.ru/product/lenta_maskiruyushchaya_masking_tape_30_mm_x_50_m_megashiner/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-vybrat-dvorniki-dlya-avtomobilya-sovety-po-vyboru/<https:/sappo.ru/product/maskiruyushchaya_plenka_hdpe_belyy_prozrachnyy_polietilen_rul_4kh150_m/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-vybrat-dvorniki-dlya-avtomobilya-sovety-po-vyboru/<https:/sappo.ru/product/rotornaya_polirovalnaya_mashinka_1200_vt_ewocar/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-vybrat-dvorniki-dlya-avtomobilya-sovety-po-vyboru/<https:/sappo.ru/product/krug_dlya_polirovki_stekla_poliviskoz_150mm_a_302_felt_polishing_pad/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-vybrat-dvorniki-dlya-avtomobilya-sovety-po-vyboru/<https:/sappo.ru/product/glasspolish_polirovalnaya_pasta_dlya_stekla_200ml_shinesystems/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-vybrat-dvorniki-dlya-avtomobilya-sovety-po-vyboru/<https:/sappo.ru/product/mikrofibra_universalnaya_unifiber_40x40_sm_400_gr_m2_golubaya_megashiner/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-vybrat-dvorniki-dlya-avtomobilya-sovety-po-vyboru/<https:/sappo.ru/product/kist_dlya_deteylinga_c_naturalnym_vorsom_brown_detailing_brush_14_megashiner/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-vybrat-dvorniki-dlya-avtomobilya-sovety-po-vyboru/<https:/sappo.ru/product/car_drying_towel_mikrofibra_dlya_sushki_avtomobilya_50_x_70_sm_600_gr_m2_megashiner/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-vybrat-dvorniki-dlya-avtomobilya-sovety-po-vyboru/<https:/sappo.ru/product/citruscleaner_apelsinovyy_ochistitel_200_ml_shine_systems_/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-vybrat-dvorniki-dlya-avtomobilya-sovety-po-vyboru/<https:/sappo.ru/product/shine_systems_ipa_antisilikon_obezzhirivatel_na_spirtovoy_osnove_750_ml/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-vybrat-dvorniki-dlya-avtomobilya-sovety-po-vyboru/ 499 350-11-04>
--  499 350-11-04>
 
 ====

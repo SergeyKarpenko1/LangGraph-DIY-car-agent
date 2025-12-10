@@ -91,11 +91,5 @@
 Внутри в любом случае сначала надо пройтись пылесосом. Обработка всех поверхностей идет от верха и до низа. Не забывайте про проводку и работайте аккуратно. А еще – поддерживайте в салоне чистоту, чтобы не приходилось тратить много времени на уборку. 
 
 
-Ссылки
-- https://sappo.ru/blog/sam-sebe-detailer/khimchistka-salona-avtomobilya-svoimi-rukami/<https:/sappo.ru/product/mu_multi_cleaner_universalnyy_ochistitel_1_l_detail/
-- https://sappo.ru/blog/sam-sebe-detailer/khimchistka-salona-avtomobilya-svoimi-rukami/<https:/sappo.ru/product/ochistitel_alkantary_i_tkanevykh_poverkhnostey_pol_star_1l_koch_chemie/
-- https://sappo.ru/blog/sam-sebe-detailer/khimchistka-salona-avtomobilya-svoimi-rukami/<https:/sappo.ru/product/professionalnye_pyatnovyvoditeli_dlya_tekstilya_bond_1_2_3_goodmix/
-- https://sappo.ru/blog/sam-sebe-detailer/khimchistka-salona-avtomobilya-svoimi-rukami/<https:/sappo.ru/product/mehrzweckreiniger_universalnoe_moyushchee_sredstvo_1l_koch_chemie/
-- https://sappo.ru/blog/sam-sebe-detailer/khimchistka-salona-avtomobilya-svoimi-rukami/<https:/sappo.ru/product/mehrzweckreiniger_universalnoe_moyushchee_sredstvo_11_l_koch_chemie_11_kg/
 
 ====

@@ -10,9 +10,6 @@ _sappo_winter_glass_defroster_07_
 Вернемся к размораживателям! 
 В ассортименте нашего магазина размораживатели представлены брендами Glaco и Sonax.
 
-Ссылки
-- https://sappo.ru/blog/obzory-tovarov/skoro-zima-zapasaemsya-razmorazhivatelyami-stekol/</catalog/moyka_i_ukhod/eksterer/ukhod_za_steklami/21779/
-- https://sappo.ru/blog/obzory-tovarov/skoro-zima-zapasaemsya-razmorazhivatelyami-stekol/<https:/sappo.ru/catalog/moyka_i_ukhod/eksterer/ukhod_za_steklami/23877/
 
 ====
 Как работают размораживатели разных типов?
@@ -32,9 +29,5 @@ _sappo_winter_glass_defroster_014_
 К слову, размораживатели оставляют после себя на стекле тонкую пленку, которая обладает гидрофобным эффектом и препятствует скоплению влаги. sappo_winter_glass_defroster_016
 Для того, чтобы в целом уменьшить образование наледи на стеклах, рекомендуем использовать покрытие типа антидождь не только осенью и летом, но и зимой. Ознакомиться с ассортиментом антидождей и тем, как их наносить можно тут. P.S. Говоря о размораживателях, стоит упомянуть еще пару важных зимних продуктов — размораживатель замков и смазка для уплотнителей. Эти две беды особенно актуальны в сильный мороз после мойки. До скорой встречи в нашем Блоге!
 
-Ссылки
-- https://sappo.ru/blog/obzory-tovarov/skoro-zima-zapasaemsya-razmorazhivatelyami-stekol/<https:/sappo.ru/blog/obzory-tovarov/kak_samostoyatelno_nanesti_antidojd/
-- https://sappo.ru/blog/obzory-tovarov/skoro-zima-zapasaemsya-razmorazhivatelyami-stekol/<https:/sappo.ru/catalog/prochee/smazochnye_materialy/23876/
-- https://sappo.ru/blog/obzory-tovarov/skoro-zima-zapasaemsya-razmorazhivatelyami-stekol/<https:/sappo.ru/catalog/moyka_i_ukhod/eksterer/pokryshki_vneshniy_plastik_uplotniteli/23875/
 
 ====

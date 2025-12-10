@@ -2,22 +2,12 @@
 - Очистка и подготовка поверхности. - Защита кожи (нанесение защитных покрытий). 
 Многие люди для очистки изделий из кожи используют спиртовые салфетки, Quick Detailer-ы или обычные микрофибровые полотенца смоченные водой. Это неправильно! И если очистку водой и различными нейтральными «квиками» кожа вам возможно и простит (хотя многое будет зависеть от ее первоначальной защитной обработки), то очистка спиртовой салфеткой или сильными обезжиривателями, как правило, отправит эту очищаемую деталь на дорогостоящую реставрацию (ремонт).
 
-Ссылки
-- https://sappo.ru/blog/obzory-tovarov/ukhod-za-kozhey/
 
 ====
 Очистители кожи
 Из премиальной автокосметики для очистки кожи от легких загрязнений мы можем посоветовать мягкий очиститель от компании Gyeon Q2M Leather Cleaner Mild Но если у вас задача избавиться от сильных загрязнений, то вместо мягкого очистителя стоит присмотреться к Q2M Leather Cleaner Strong Очень хорошо себя зарекомендовало средство для очистки кожи Leather Ultimate Cleaner от компании Letech Из качественной и недорогой импортной косметики для очистки кожи прекрасно подойдет Profi Line Leather Cleaner от компании Sonax, либо Leather Cleaner от компании Shiny Garage
 Ну а для тех, кто предпочитает в работе использовать автокосметику отечественных производителей, мы порекомендуем очистители D1 от компании Leraton, а также пенный очиститель Skin Virgin от компании Smart Open.
 
-Ссылки
-- https://sappo.ru/blog/obzory-tovarov/ukhod-za-kozhey/<https:/sappo.ru/catalog/moyka_i_ukhod/interer/ukhod_za_kozhey/21813/
-- https://sappo.ru/blog/obzory-tovarov/ukhod-za-kozhey/<https:/sappo.ru/catalog/moyka_i_ukhod/interer/ukhod_za_kozhey/21811/
-- https://sappo.ru/blog/obzory-tovarov/ukhod-za-kozhey/<https:/sappo.ru/catalog/moyka_i_ukhod/interer/ukhod_za_kozhey/26519/
-- https://sappo.ru/blog/obzory-tovarov/ukhod-za-kozhey/<https:/sappo.ru/catalog/moyka_i_ukhod/interer/ukhod_za_kozhey/25020/
-- https://sappo.ru/blog/obzory-tovarov/ukhod-za-kozhey/<https:/sappo.ru/catalog/moyka_i_ukhod/interer/ukhod_za_kozhey/29482/
-- https://sappo.ru/blog/obzory-tovarov/ukhod-za-kozhey/<https:/sappo.ru/catalog/moyka_i_ukhod/interer/ukhod_za_kozhey/24764/
-- https://sappo.ru/blog/obzory-tovarov/ukhod-za-kozhey/<https:/sappo.ru/catalog/moyka_i_ukhod/interer/ukhod_za_kozhey/22280/
 
 ====
 Инструкция по самостоятельной чистке кожи
@@ -42,12 +32,6 @@
 В нашем магазине всегда большой выбор различных кондиционеров и защитных лосьонов для кожи 
 Из российской косметики всегда в наличии высокостойкий консервант кожи SkinMagic от компании SmartOpen и крем-кондиционер для кожи D2 от компании Leraton. Из премиальной косметики мы можем предложить кондиционер для кожи Gold Class Leather Conditioner от производителя Meguiar\'s, молочко для ухода за кожаными поверхностями Leather Star от компании KochChemie, а также защитный лосьон для кожи Leather Lotion X-GUARD PROTECTED от компании LeTech.
 
-Ссылки
-- https://sappo.ru/blog/obzory-tovarov/ukhod-za-kozhey/<https:/sappo.ru/catalog/moyka_i_ukhod/interer/ukhod_za_kozhey/24350/
-- https://sappo.ru/blog/obzory-tovarov/ukhod-za-kozhey/<https:/sappo.ru/catalog/moyka_i_ukhod/interer/ukhod_za_kozhey/24765/
-- https://sappo.ru/blog/obzory-tovarov/ukhod-za-kozhey/<https:/sappo.ru/catalog/moyka_i_ukhod/interer/ukhod_za_kozhey/27848/
-- https://sappo.ru/blog/obzory-tovarov/ukhod-za-kozhey/<https:/sappo.ru/catalog/moyka_i_ukhod/interer/ukhod_za_kozhey/24140/
-- https://sappo.ru/blog/obzory-tovarov/ukhod-za-kozhey/<https:/sappo.ru/catalog/moyka_i_ukhod/interer/ukhod_za_kozhey/26520/
 
 ====
 Как правильно применять защитные средства для кожи?

@@ -87,36 +87,5 @@
 В детейлинг-маркете “Sappo.ru” можно заказать средства для химчистки салона с доставкой по городам России. Оформите заказ на покупку в интернет-магазине за несколько минут с мобильного устройства и компьютера. Ознакомьтесь с условиями оплаты, возврата товара на сайте. 
 : Sappo
 
-Ссылки
-- https://sappo.ru/blog/sam-sebe-detailer/kak-delayut-himchistku-salona-avtomobilya/
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- https://sappo.ru/catalog/moyka_i_ukhod/interer/ukhod_za_tkanyu/
-- https://sappo.ru/catalog/moyka_i_ukhod/interer/ukhod_za_kozhey/
-- https://sappo.ru/catalog/moyka_i_ukhod/interer/vnutrenniy_plastik/
-- https://sappo.ru/product/quickdetailer_banana_sprey_ochistitel_dlya_bystrogo_ukhoda_750_ml_shine_systems/
-- https://sappo.ru/product/new_salon_sredstvo_dlya_khimchistki_salona_kontsentrat_5_kg_borger/
-- https://sappo.ru/product/ochistitel_tkanevykh_poverkhnostey_pennyy_antibakterialnyy_fabric_seat_cleaner_420_ml_soft99/
-- https://sappo.ru/product/mehrzweckreiniger_universalnoe_sredstvo_dlya_khimchistki_kontsentrat_22_kg_koch_chemie/
-- https://sappo.ru/catalog/moyka_i_ukhod/eksterer/ukhod_za_steklami/22940/
-- https://sappo.ru/product/09_farbic_magic_universalnyy_ochistitel_interera_0_5_l_smart_open/
-- https://sappo.ru/catalog/aksessuary/mikrofibry_gubki_salfetki/27783/
 
 ====

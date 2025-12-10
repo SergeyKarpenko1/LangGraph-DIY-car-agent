@@ -52,10 +52,5 @@
 Детейлинг-маркет Sappo.ru – это большой выбор средств для полировки по доступным ценам. Ознакомьтесь с условиями доставки, оплаты и возврата товара на нашем сайте. 
 : Sappo
 
-Ссылки
-- https://sappo.ru/blog/sam-sebe-detailer/kakie-carapiny_mozhno_ustranit_s_pomoshyu_polirovki/</catalog/polirovka/polirovalnye_pasty/
-- https://sappo.ru/blog/sam-sebe-detailer/kakie-carapiny_mozhno_ustranit_s_pomoshyu_polirovki/</catalog/polirovka/krugi_i_podlozhki/
-- https://sappo.ru/blog/sam-sebe-detailer/kakie-carapiny_mozhno_ustranit_s_pomoshyu_polirovki/</catalog/oborudovanie/polirovalnye_mashinki/
-- https://sappo.ru/blog/sam-sebe-detailer/kakie-carapiny_mozhno_ustranit_s_pomoshyu_polirovki/</catalog/zashchitnye_pokrytiya/keramika_i_zhidkoe_steklo/
 
 ====

@@ -146,13 +146,5 @@
 Правильно удалить ржавчину на авто и обработать металл кузова можно и своими руками. Главное, выбирать качественные средства, ориентироваться на инструкцию и соблюдать технологию по обработке. 
 В детейлинг-маркете Sappo.ru можно заказать средства для зачистки ржавчины на автомобиле от Mega Shiner, Smart Open, Shine Systems, Koch Chemie и других топовых производителей с доставкой по России. Оформите заказ на покупку в интернет-магазине за несколько минут с мобильного устройства или компьютера. Ознакомьтесь с условиями оплаты, возврата товара на сайте. 
 
-Ссылки
-- https://sappo.ru/blog/sam-sebe-detailer/kak-ubrat-rzhavchinu-s-kuzova/<https:/sappodetailing.ru/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-ubrat-rzhavchinu-s-kuzova/<https:/sappo.ru/product/pnevmaticheskaya_rotor_orbitalnaya_shlifovalnaya_mashinka_j_1038b_jetapro/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-ubrat-rzhavchinu-s-kuzova/<https:/sappo.ru/catalog/moyka_i_ukhod/eksterer/ochistiteli/23465/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-ubrat-rzhavchinu-s-kuzova/<https:/sappo.ru/catalog/prochee/smazochnye_materialy/24099/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-ubrat-rzhavchinu-s-kuzova/<https:/sappo.ru/catalog/aksessuary/kisti_shchetki_sgony_i_skrebki/32784/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-ubrat-rzhavchinu-s-kuzova/<https:/sappo.ru/product/polirol_dlya_kuzova_blackwax_300gr_soft99_/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-ubrat-rzhavchinu-s-kuzova/<https:/sappo.ru/product/keramicheskiy_zhidkiy_vosk_show_car_duke_sio2_100_ml_fireball/
 
 ====

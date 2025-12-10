@@ -2,9 +2,6 @@
 Прикупил NanoGlass Kit от Shine Systems — гидрофобный набор для стекол. Сюда входит все необходимое для подготовки и обработки стекол и зеркал. Крайне удобно для новичков в сфере детейлинга! 
 Также взял PinkFoam от Shine Systems — розовый шампунь для первичной мойки авто.
 
-Ссылки
-- https://sappo.ru/blog/sam-sebe-detailer/dachnyy-deteyler/<https:/sappo.ru/catalog/zashchitnye_pokrytiya/dlya_stekol_far_i_zerkal/28853/
-- https://sappo.ru/blog/sam-sebe-detailer/dachnyy-deteyler/<https:/sappo.ru/catalog/moyka_i_ukhod/eksterer/pervichnye_shampuni/23623/
 
 ====
 Приступаем к мойке
@@ -13,17 +10,11 @@
 Приобрел детейлинг кисть Detailing Brush N10[](https://sappo.ru/blog/sam-sebe-detailer/dachnyy-deteyler/<https:/sappo.ru/catalog/aksessuary/kisti_shchetki_sgony_i_skrebki/29112/ от Shine Systems. Профессиональный подход во всем! 
 Такая кисть — незаменимый инструмент любого детейлера. Разумеется у профессионала их будет целый набор — разных размеров и плотности щетины. Я же пока взял только одну, и должен сказать, мне понравилось! Ей очень удобно чистить труднодоступные места, в моем случае это область вокруг букв LADA и шильдика. Теперь все чисто!
 
-Ссылки
-- 
-- 
-- 
 
 ====
 Моем шины и диски
 Дополнительно взял детейлинг щетку для мойки дисков от Autech. Щетка универсальная, подходит для всех видов поверхностей и имеет мягкий и эластичный ворс. Я взял ее для мойки шин и дисков, результат превосходный! Очень удобно ей пользоваться, так как ручка расположена под правильным углом.
 
-Ссылки
-- https://sappo.ru/blog/sam-sebe-detailer/dachnyy-deteyler/<https:/sappo.ru/catalog/aksessuary/kisti_shchetki_sgony_i_skrebki/22358/
 
 ====
 Сушка кузова
@@ -32,8 +23,5 @@
 Полотенце имеет большой размер, мгновенно впитывает влагу, значительно ускоряя сушку. Благодаря особому плетению полотенце буквально \"пылесосит\" воду. Результат от одной протирки наглядный! 
 Ну и бонусом взял Foamer от Shine Systems — бутылку с пенообразователем. Пригодится для чистки кожи, так как при работе с ней лучше действуют составы в пенном виде. Да и расход средства получается меньше.
 
-Ссылки
-- https://sappo.ru/blog/sam-sebe-detailer/dachnyy-deteyler/<https:/sappo.ru/catalog/aksessuary/mikrofibry_gubki_salfetki/21952/
-- https://sappo.ru/blog/sam-sebe-detailer/dachnyy-deteyler/<https:/sappo.ru/catalog/aksessuary/triggery_raspylitelib_emkosti_i_vedra/26732/
 
 ====

@@ -8,13 +8,6 @@
 - чистая вода;
 - перчатки.
 
-Ссылки
-- https://sappo.ru/blog/sam-sebe-detailer/chistka-sidenij-avtomobilya-osnovnye-pravila-i-sovety/<https:/sappo.ru/catalog/oborudovanie/dlya_khimchistki/filter/brand-is-ipc-portotecnica-or-ipc-soteco/apply/
-- https://sappo.ru/blog/sam-sebe-detailer/chistka-sidenij-avtomobilya-osnovnye-pravila-i-sovety/<https:/sappo.ru/catalog/moyka_i_ukhod/interer/ukhod_za_tkanyu/
-- https://sappo.ru/blog/sam-sebe-detailer/chistka-sidenij-avtomobilya-osnovnye-pravila-i-sovety/<https:/sappo.ru/catalog/aksessuary/mikrofibry_gubki_salfetki/filter/1626-is-74f899e58e2bd0571d1c1745cd87b990/apply/
-- https://sappo.ru/blog/sam-sebe-detailer/chistka-sidenij-avtomobilya-osnovnye-pravila-i-sovety/<https:/sappo.ru/catalog/aksessuary/kisti_shchetki_sgony_i_skrebki/filter/1626-is-c628a7691e221e4d872f4814a1381424/apply/
-- https://sappo.ru/blog/sam-sebe-detailer/chistka-sidenij-avtomobilya-osnovnye-pravila-i-sovety/<https:/sappo.ru/catalog/aksessuary/mikrofibry_gubki_salfetki/filter/1626-is-9b1d0353b64ad57ebe711aed0f7a1935-or-62a5d09a8464944bbb8f79da25d1b020/1628-is-9abac07068e7804940a7f6255317fbf7/apply/
-- https://sappo.ru/blog/sam-sebe-detailer/chistka-sidenij-avtomobilya-osnovnye-pravila-i-sovety/<https:/sappo.ru/catalog/prochee/siz_i_gigiena/filter/brand-is-dry-monster-or-jeta-pro-or-reflexx-or-shine-systems/apply/
 
 ====
 Основные правила чистки сидений
@@ -32,9 +25,6 @@
 Пенный очиститель кожи 23 Skin Virgin, 0.5 л, Smart Open бережно нейтрализует пятна на кожаных изделиях, не повреждая при этом сам материал. Состав полностью безопасен и не содержит растворители, щелочи и кислоты. 
 Пена наносится на щетку с мягкой, не оставляющей следов на коже щетиной. Аккуратно, без нажима отмывается загрязненная поверхность. В соответствии с инструкцией к чистящему средству, нанесенная пена остается какое-то время самостоятельно работать с пятном. Затем остатки пены убираются мягкой тканевой салфеткой — махровой или из микрофибры.
 
-Ссылки
-- https://sappo.ru/blog/sam-sebe-detailer/chistka-sidenij-avtomobilya-osnovnye-pravila-i-sovety/<https:/sappo.ru/product/sredstvo_dlya_chistki_zamshi_i_nubuka_suede_nubuck_cleaner_200_ml/
-- https://sappo.ru/blog/sam-sebe-detailer/chistka-sidenij-avtomobilya-osnovnye-pravila-i-sovety/<https:/sappo.ru/product/23_skin_virgin_pennyy_ochistitel_kozhi_0_5_l_smart_open/
 
 ====
 Чем очистить тканевый салон автомобиля
@@ -53,10 +43,6 @@
 Для удаления стойких застарелых пятен может потребоваться повторная химчистка сидений автомобиля. Можно воспользоваться специальными средствами, такими как многофункциональный профессиональный пятновыводитель Fleckenwasser от Koch Chemie. 
 Другое очень эффективное средство для химчистки салона – концентрат New Salon, 0,5 л, Borger. New Salon, Borger позволяет убирать пятна любого происхождения, в том числе самые застарелые, глубоко въевшиеся в обивку.
 
-Ссылки
-- https://sappo.ru/blog/sam-sebe-detailer/chistka-sidenij-avtomobilya-osnovnye-pravila-i-sovety/<https:/sappo.ru/product/new_salon_sredstvo_dlya_khimchistki_salona_0_5_l_borger_/
-- https://sappo.ru/blog/sam-sebe-detailer/chistka-sidenij-avtomobilya-osnovnye-pravila-i-sovety/<https:/sappo.ru/product/fleckenwasser_pyatnovyvoditel_s_tekstilya_vnutrenney_otdelki_koch_chemie_1l/
-- 
 
 ====
 Домашние способы очистки тканевых сидений автомобиля своими руками
@@ -73,8 +59,6 @@
 Алькантара требует систематического ухода. Застарелые пятна удаляются трудно, требуют применения специализированных чистящих средств. Для такой обивки особенно важно немедленно приступить к удалению образовавшегося пятна. Свежие пятна удаляют влажной чистой белой тканью или хорошо отжатой губкой. Движения должны быть аккуратными, необходимо избегать натирания ткани. 
 Специализированные средства удаления пятен предназначены для сухой уборки. Они наносятся на губку или мягкую щетку, выдерживаются недолгое время, а затем удаляются мягкой салфеткой. Для чистки алькантары подходят те же средства, что применяются для замши и нубука. Мощным и эффективным продуктом является Suede & Nubuck Cleaner.
 
-Ссылки
-- 
 
 ====
 Уход за меховыми изделиями
@@ -98,7 +82,5 @@
 Все виды работ производятся с применением косметических и чистящих средств премиум-класса. 
 По желанию автовладельца можно проводить комплексную или локальную чистку — частичную очистку сильно загрязненных участков сидений.
 
-Ссылки
-- https://sappo.ru/blog/sam-sebe-detailer/chistka-sidenij-avtomobilya-osnovnye-pravila-i-sovety/<https:/sappodetailing.ru/
 
 ====

@@ -62,12 +62,5 @@
 Это перечень действий вкратце. Освоение полного навыка ремонта поможет вернуть прежний вид быстро и надолго. 
 
 
-Ссылки
-- https://sappo.ru/blog/sam-sebe-detailer/kak-ubrat-carapiny-s-plastika-salona-avtomobilya/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-ubrat-carapiny-s-plastika-salona-avtomobilya/<https:/sappo.ru/product/kvartsevoe_zashchitnoe_pokrytie_sky_30_ml_quartz_master/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-ubrat-carapiny-s-plastika-salona-avtomobilya/<https:/sappo.ru/product/polirovalnaya_mashinka_mini_ekstsentrikovaya_nabor_ewomini0312_ewocar/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-ubrat-carapiny-s-plastika-salona-avtomobilya/<https:/sappo.ru/product/salfetka_iz_mikrofibry_dlya_polirovki_kuzova_sonax_/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-ubrat-carapiny-s-plastika-salona-avtomobilya/<https:/sappo.ru/product/one_cut_finish_p6_02_vysokoglyantsevaya_polirovalnaya_pasta_s_zashchitnym_effektom_250_ml_koch_chemi/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-ubrat-carapiny-s-plastika-salona-avtomobilya/<https:/sappo.ru/product/quickdetailer_sprey_ochistitel_dlya_bystrogo_ukhoda_5_l_shine_systems_
 
 ====

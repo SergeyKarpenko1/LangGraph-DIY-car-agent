@@ -104,25 +104,5 @@
 Зная, как отполировать авто своими руками, вы сможете добиться отличного результата. Но не менее важно использовать качественные средства. Их можно приобрести в интернет-магазине Sappo.ru. Если возникнут трудности, наши менеджеры помогут сделать выбор. 
 : Sappo
 
-Ссылки
-- https://sappo.ru/blog/sam-sebe-detailer/kak-otpolirovat-avtomobil-svoimi-rukami/
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- https://sappo.ru/blog/sam-sebe-detailer/kak-otpolirovat-avtomobil-svoimi-rukami/<https:/sappo.ru/product/shine_systems_pinkfoam_aktivnyy_shampun_dlya_beskontaktnoy_moyki_5_l/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-otpolirovat-avtomobil-svoimi-rukami/<https:/sappo.ru/product/07_clean_excess_delikatnyy_ochistitel_bituma_i_smoly_0_5_l_smart_open_/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-otpolirovat-avtomobil-svoimi-rukami/<https:/sappo.ru/product/shine_systems_ironoff_beskislotnyy_ochistitel_diskov_s_indikatorom_750_ml/
-- 
-- https://sappo.ru/blog/sam-sebe-detailer/kak-otpolirovat-avtomobil-svoimi-rukami/<https:/sappo.ru/product/applikator_porolonovyy_round_foamy_sponge_10_sm_megashiner/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-otpolirovat-avtomobil-svoimi-rukami/<https:/sappo.ru/product/mikrofibra_universalnaya_unifiber_40x40_sm_400_gr_m2_golubaya_megashiner/
-- 
-- https://sappo.ru/blog/sam-sebe-detailer/kak-otpolirovat-avtomobil-svoimi-rukami/<https:/sappo.ru/product/fusso_coat_12_d_polimernaya_zashchitnaya_polirol_soft99_teflon_dlya_temnogo_tsveta_200_gr_/
 
 ====

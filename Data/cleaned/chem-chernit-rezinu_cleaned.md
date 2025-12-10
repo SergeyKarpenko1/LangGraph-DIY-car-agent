@@ -64,32 +64,5 @@ Black Slipper
 А у Sappo есть подробное видео про самостоятельное чернение шин. Приятного просмотра! 
 : Sappo
 
-Ссылки
-- https://sappo.ru/blog/sam-sebe-detailer/chem-chernit_rezinu/
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- https://sappo.ru/blog/sam-sebe-detailer/chem-chernit_rezinu/</catalog/moyka_i_ukhod/eksterer/pokryshki_vneshniy_plastik_uplotniteli/343681/
-- https://sappo.ru/blog/sam-sebe-detailer/chem-chernit_rezinu/</catalog/moyka_i_ukhod/eksterer/pokryshki_vneshniy_plastik_uplotniteli/30740/
-- https://sappo.ru/blog/sam-sebe-detailer/chem-chernit_rezinu/</catalog/moyka_i_ukhod/eksterer/pokryshki_vneshniy_plastik_uplotniteli/344154/
-- https://sappo.ru/blog/sam-sebe-detailer/chem-chernit_rezinu/</catalog/moyka_i_ukhod/eksterer/pokryshki_vneshniy_plastik_uplotniteli/22935/
-- https://sappo.ru/blog/sam-sebe-detailer/chem-chernit_rezinu/</catalog/moyka_i_ukhod/eksterer/pokryshki_vneshniy_plastik_uplotniteli/33864/
-- https://sappo.ru/blog/sam-sebe-detailer/chem-chernit_rezinu/</catalog/moyka_i_ukhod/eksterer/pokryshki_vneshniy_plastik_uplotniteli/31776/
-- 
-- 
-- 
-- 
-- 
-- 
 
 ====

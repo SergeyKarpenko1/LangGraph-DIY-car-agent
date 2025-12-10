@@ -67,28 +67,5 @@ Fusso Coat 12 D — твердый полироль на основе тефло
 Самостоятельная подготовка автомобиля к весне — процесс трудоемкий и длительный. Сэкономить время помогут специалисты сервисных центров. Компания SAPPO предоставляет услуги собственного профессионального детейлинг-центра в Санкт-Петербурге. Профессиональный подход и сертифицированная автохимия гарантируют высокое качество выполняемых работ. 
 : Sappo
 
-Ссылки
-- https://sappo.ru/blog/sam-sebe-detailer/kak-podgotovit-avtomobil-k-vesne/
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- https://sappo.ru/blog/sam-sebe-detailer/kak-podgotovit-avtomobil-k-vesne/</catalog/moyka_i_ukhod/eksterer/pervichnye_shampuni/33204/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-podgotovit-avtomobil-k-vesne/</catalog/moyka_i_ukhod/eksterer/pervichnye_shampuni/29569/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-podgotovit-avtomobil-k-vesne/</catalog/moyka_i_ukhod/eksterer/pervichnye_shampuni/21572/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-podgotovit-avtomobil-k-vesne/</catalog/moyka_i_ukhod/eksterer/pervichnye_shampuni/22939/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-podgotovit-avtomobil-k-vesne/</catalog/moyka_i_ukhod/eksterer/ruchnaya_moyka/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-podgotovit-avtomobil-k-vesne/</catalog/moyka_i_ukhod/eksterer/ochistiteli/32704/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-podgotovit-avtomobil-k-vesne/</catalog/moyka_i_ukhod/eksterer/moyka_dvigatelya/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-podgotovit-avtomobil-k-vesne/</catalog/moyka_i_ukhod/interer/ustranenie_zapakhov/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-podgotovit-avtomobil-k-vesne/</catalog/moyka_i_ukhod/eksterer/ukhod_za_steklami/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-podgotovit-avtomobil-k-vesne/</product/antidozhd_glaco_roll_on_vodoottalkivayushchaya_polirol_dlya_stekla_75_ml_/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-podgotovit-avtomobil-k-vesne/</catalog/zashchitnye_pokrytiya/voski_gleyzy_silanty/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-podgotovit-avtomobil-k-vesne/</product/authentic_premium_vosk_karnauba_83_zashchita_kuzova_soft99_200_gr_/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-podgotovit-avtomobil-k-vesne/</product/fusso_coat_12_d_polimernaya_zashchitnaya_polirol_soft99_teflon_dlya_temnogo_tsveta_200_gr_/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-podgotovit-avtomobil-k-vesne/<https:/sappodetailing.ru/
 
 ====

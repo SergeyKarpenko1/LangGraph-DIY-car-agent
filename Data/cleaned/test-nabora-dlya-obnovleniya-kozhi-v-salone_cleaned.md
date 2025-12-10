@@ -42,7 +42,4 @@ Skin Magic — защитное средство для кожи. Создаст
 Всем добра и успехов! 
 : Sappo
 
-Ссылки
-- https://sappo.ru/blog/sam-sebe-detailer/test-nabora-dlya-obnovleniya-kozhi-v-salone/
-- https://sappo.ru/blog/sam-sebe-detailer/test-nabora-dlya-obnovleniya-kozhi-v-salone/<https:/sappo.ru/catalog/moyka_i_ukhod/interer/ukhod_za_kozhey/23403/
 ====

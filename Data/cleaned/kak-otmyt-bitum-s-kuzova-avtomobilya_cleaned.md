@@ -9,15 +9,6 @@
 - Как очистить битум с кузова автомобиля? 
 Способов повредить ЛКП множество, и один из них — битум на машине. Его не получится убрать с помощью воды. Шампуни для очистки помогут избавиться только от свежего пятна. Удалить битум с кузова автомобиля можно, важно это сделать так, чтобы не повредить ЛКП.
 
-Ссылки
-- https://sappo.ru/blog/sam-sebe-detailer/kak-otmyt-bitum-s-kuzova-avtomobilya/
-- 
-- 
-- 
-- 
-- 
-- 
-- 
 
 ====
 Что такое битумные пятна на машине?
@@ -39,8 +30,6 @@
 - Постарайтесь работать с пятнами в жаркую погоду, так их удалять будет проще.
 - Как только вы обнаружите битумное пятно, необходимо в самое ближайшее время от него избавиться: затвердевшие смолы оставляют пятна рыжего цвета и помутнения.
 
-Ссылки
-- 
 
 ====
 Какие средства не подходят?
@@ -109,27 +98,6 @@ Tar Pitch Cleaner, Kangaroo
 Tar Pitch Cleaner, Kangaroo.jpg
 Корейский производитель предлагает аэрозольный состав от застаревших пятен. Это средство не требует выдержки после нанесения. Можно использовать как для кузова, так и для колес. Хороший вариант для удаления свежих пятен. Всегда имейте его с собой, чтобы своевременно удалять битум с поверхностей.
 
-Ссылки
-- https://sappo.ru/blog/sam-sebe-detailer/kak-otmyt-bitum-s-kuzova-avtomobilya/<https:/sappo.ru/product/ochistitel_bituma_kleya_i_razmetki_tar_remover_500_ml_fireball/
-- 
-- https://sappo.ru/blog/sam-sebe-detailer/kak-otmyt-bitum-s-kuzova-avtomobilya/<https:/sappo.ru/product/shine_systems_resinoff_ochistitel_drevesnykh_smol_750_ml/
-- 
-- https://sappo.ru/blog/sam-sebe-detailer/kak-otmyt-bitum-s-kuzova-avtomobilya/<https:/sappo.ru/product/bl_taroff_professionalnyy_ochistitel_bitumnykh_pyaten_smol_reagentov_400_ml_shine_systems/
-- 
-- https://sappo.ru/blog/sam-sebe-detailer/kak-otmyt-bitum-s-kuzova-avtomobilya/<https:/sappo.ru/product/new_pitch_cleaner_udalitel_smoly_i_gudrona_soft99_350ml/
-- 
-- https://sappo.ru/blog/sam-sebe-detailer/kak-otmyt-bitum-s-kuzova-avtomobilya/<https:/sappo.ru/product/og_orange_pyatnovyvoditel_500_ml_detail/
-- 
-- https://sappo.ru/blog/sam-sebe-detailer/kak-otmyt-bitum-s-kuzova-avtomobilya/<https:/sappo.ru/product/g2_ochistitel_bituma_500_ml_leraton/
-- 
-- https://sappo.ru/blog/sam-sebe-detailer/kak-otmyt-bitum-s-kuzova-avtomobilya/<https:/sappo.ru/product/astrohim_ac_396_ochistitel_bitumnykh_pyaten_5_l_/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-otmyt-bitum-s-kuzova-avtomobilya/<https:/sappo.ru/catalog/moyka_i_ukhod/eksterer/ochistiteli/23330/
-- 
-- https://sappo.ru/blog/sam-sebe-detailer/kak-otmyt-bitum-s-kuzova-avtomobilya/<https:/sappo.ru/product/07_clean_excess_delikatnyy_ochistitel_bituma_i_smoly_0_5_l_smart_open_/
-- 
-- https://sappo.ru/blog/sam-sebe-detailer/kak-otmyt-bitum-s-kuzova-avtomobilya/<https:/sappo.ru/product/tar_pitch_cleaner_ochistitel_gudrona_i_bituma_kangaroo_400_ml/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-otmyt-bitum-s-kuzova-avtomobilya/<https:/sappo.ru/catalog/moyka_i_ukhod/eksterer/ochistiteli/23826/
-- 
 
 ====
 Профилактика — лучший вариант в борьбе с битумом

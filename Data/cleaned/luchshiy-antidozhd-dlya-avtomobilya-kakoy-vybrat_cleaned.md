@@ -68,17 +68,5 @@ Premium oleophobic nano coating от Monix (Россия) — антидождь
 Одно из наиболее действенных средств – Glaco Glass Compound. Мелкоабразивная суспензия наносится на стекло, затем аппликатором, входящим в комплект, сошлифовывается гидрофобная пленка. Одновременно удаляются и оставшиеся прочные загрязнения стекла. 
 : Sappo
 
-Ссылки
-- https://sappo.ru/blog/sam-sebe-detailer/luchshiy-antidozhd-dlya-avtomobilya-kakoy-vybrat/
-- https://sappo.ru/blog/sam-sebe-detailer/luchshiy-antidozhd-dlya-avtomobilya-kakoy-vybrat/<https:/sappo.ru/product/antidozhd_glaco_ultra_polirol_pokrytie_dlya_stekla_70_ml/
-- https://sappo.ru/blog/sam-sebe-detailer/luchshiy-antidozhd-dlya-avtomobilya-kakoy-vybrat/<https:/sappo.ru/product/aquapel_glass_treatment_v_blistere_antidozhd_dlya_stekol_kapsula_akvapel_1sht/
-- https://sappo.ru/blog/sam-sebe-detailer/luchshiy-antidozhd-dlya-avtomobilya-kakoy-vybrat/<https:/sappo.ru/product/glaco_mirror_coat_zero_vodoottalkivayushchee_pokrytie_dlya_bokovykh_zerkal_32_ml/
-- https://sappo.ru/blog/sam-sebe-detailer/luchshiy-antidozhd-dlya-avtomobilya-kakoy-vybrat/<https:/sappo.ru/product/nanopokrytie_dlya_stekol_vodoottalkivayushchee_glass_box_komplekt_smart_open/
-- https://sappo.ru/blog/sam-sebe-detailer/luchshiy-antidozhd-dlya-avtomobilya-kakoy-vybrat/<https:/sappo.ru/product/shine_systems_nanoglass_zashchitnoe_nanopokrytie_dlya_stekol_k1_200_ml_k2_200_ml/
-- https://sappo.ru/blog/sam-sebe-detailer/luchshiy-antidozhd-dlya-avtomobilya-kakoy-vybrat/<https:/sappo.ru/product/antidozhd_nanoglasversiegelung_vodoottalkivayushchie_nano_pokrytie_stekla_koch_chemie/
-- https://sappo.ru/blog/sam-sebe-detailer/luchshiy-antidozhd-dlya-avtomobilya-kakoy-vybrat/<https:/sappo.ru/product/view_kvartsevoe_zashchitnoe_pokrytie_antidozhd_gyeon_20_ml/
-- https://sappo.ru/blog/sam-sebe-detailer/luchshiy-antidozhd-dlya-avtomobilya-kakoy-vybrat/<https:/sappo.ru/product/premium_oleophobic_nano_coating_gidrofobnoe_pokrytie_dlya_steklyannykh_poverkhnostey_nabor_50ml_moni/
-- https://sappo.ru/blog/sam-sebe-detailer/luchshiy-antidozhd-dlya-avtomobilya-kakoy-vybrat/<https:/sappo.ru/product/keramicheskoe_gidrofobnoe_pokrytie_dlya_stekla_50_50_ml_problesk/
-- https://sappo.ru/blog/sam-sebe-detailer/luchshiy-antidozhd-dlya-avtomobilya-kakoy-vybrat/<https:/sappo.ru/catalog/moyka_i_ukhod/eksterer/ukhod_za_steklami/24202/
 
 ====

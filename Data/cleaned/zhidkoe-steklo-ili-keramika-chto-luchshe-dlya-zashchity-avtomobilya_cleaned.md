@@ -78,12 +78,5 @@ _Важно! Ни одно защитное покрытие из ассорти
 Выбирая оптимальный вариант, учитывайте выделенный бюджет, индивидуальные особенности личного транспорта и ожидаемый результат. Так, для зеркального блеска и достижения антистатического эффекта подойдёт жидкое стекло. А если хочется именно защитить и сохранить ЛКП, то стоит воспользоваться керамикой. 
 
 
-Ссылки
-- https://sappo.ru/blog/sam-sebe-detailer/zhidkoe-steklo-ili-keramika-chto-luchshe-dlya-zashchity-avtomobilya/
-- https://sappo.ru/blog/sam-sebe-detailer/zhidkoe-steklo-ili-keramika-chto-luchshe-dlya-zashchity-avtomobilya/</product/bystro_napylyaemaya_keramika_hendlex_sprayable_ceramic_100_ml/
-- https://sappo.ru/blog/sam-sebe-detailer/zhidkoe-steklo-ili-keramika-chto-luchshe-dlya-zashchity-avtomobilya/</product/zhidkoe_steklo_gliss_2_0_30_ml_carpro/
-- https://sappo.ru/blog/sam-sebe-detailer/zhidkoe-steklo-ili-keramika-chto-luchshe-dlya-zashchity-avtomobilya/</product/zhidkoe_steklo_gliss_2_0_50_ml_carpro/
-- https://sappo.ru/blog/sam-sebe-detailer/zhidkoe-steklo-ili-keramika-chto-luchshe-dlya-zashchity-avtomobilya/</product/keramicheskoe_pokrytie_m3x_40_ml_hendlex/
-- https://sappo.ru/blog/sam-sebe-detailer/zhidkoe-steklo-ili-keramika-chto-luchshe-dlya-zashchity-avtomobilya/</product/h_9_ultimate_quartz_kvartsevoe_zashchitnoe_pokrytie_dlya_kuzova_100_ml_soft99_/
 
 ====

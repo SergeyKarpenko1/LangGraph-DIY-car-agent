@@ -6,8 +6,6 @@
 Автовладельцы любят использовать разные средства, подходящие для их авто, и детейлинговые продукты дают возможность персонализировать уход: подобрать формулы для кузова, покрытия для защиты от УФ-лучей и грязи, ароматы для салона. Соответственно, подарок мужчине-автолюбителю может быть новинкой. Так обеспечите возможность экспериментировать. 
 Итак, подарок мужчине в машину из средств для детейлинга не только практичен, но и подчеркивает понимание и уважение к увлечениям мужчины. Это удобный способ выразить поддержку его хобби и помочь поддерживать автомобиль в прекрасном состоянии.
 
-Ссылки
-- https://sappo.ru/blog/obzory-tovarov/idei-podarkov-dlya-muzhchiny-avtolyubitelya/
 
 ====
 Готовые наборы для детейлинга
@@ -23,15 +21,6 @@
 - Wheels Care Kit — специальный набор для ухода за колесами. В него включены высокопенный очиститель, консервант для насыщенного цвета и водоотталкивающего эффекта, средство для матового черенения, защищающее от растрескивания, а также микрофибра.  
 Выбирайте в каталоге полезные вещи для автомобиля в подарок — и парень оценит ваш практичный подход и внимание к его увлечению.
 
-Ссылки
-- https://sappo.ru/blog/obzory-tovarov/idei-podarkov-dlya-muzhchiny-avtolyubitelya/</product/headlight_polish_set_nabor_dlya_polirovki_far_/
-- https://sappo.ru/blog/obzory-tovarov/idei-podarkov-dlya-muzhchiny-avtolyubitelya/</product/smart_interior_box_nabor_po_ukhodu_za_intererom_avtomobilya_smart_open/
-- https://sappo.ru/blog/obzory-tovarov/idei-podarkov-dlya-muzhchiny-avtolyubitelya/</product/smart_winner_box_nabor_dlya_ochistki_kuzova_i_diskovykh_ot_slozhnykh_zagryazneniy_smart_open/
-- https://sappo.ru/blog/obzory-tovarov/idei-podarkov-dlya-muzhchiny-avtolyubitelya/</product/nabor_dlya_ukhoda_za_kozhey_leather_care_kit_complete/
-- https://sappo.ru/blog/obzory-tovarov/idei-podarkov-dlya-muzhchiny-avtolyubitelya/</product/nabor_dlya_chistki_i_zashchity_kozhanykh_izdeliy_smart_leather_box/
-- https://sappo.ru/blog/obzory-tovarov/idei-podarkov-dlya-muzhchiny-avtolyubitelya/</product/ik_interior_kit_nabor_po_ukhodu_za_salonom_detail/
-- https://sappo.ru/blog/obzory-tovarov/idei-podarkov-dlya-muzhchiny-avtolyubitelya/</product/lk_leather_kit_nabor_dlya_ochistki_kozhi_detail/
-- https://sappo.ru/blog/obzory-tovarov/idei-podarkov-dlya-muzhchiny-avtolyubitelya/</product/wheels_care_kit_nabor_dlya_ukhoda_za_kolyesami_foam_heroes/
 
 ====
 Керамика и жидкое стекло
@@ -43,8 +32,6 @@
 Керамика и жидкое стекло привлекают мужчин, которые тщательно следят за состоянием автомобиля. Такой подарок подчеркивает внимание к их интересам и позволяет подарить уход за машиной на уровне профессионального детейлинга. 
 Что подарить автомобилисту на день рождения их этой категории средств? Стоит выбирать проверенные бренды, гарантирующие прочное сцепление и долговечность. В каталоге SAPPO.RU есть комплект с жидким полиуретаном Protect Sprayshield.
 
-Ссылки
-- https://sappo.ru/blog/obzory-tovarov/idei-podarkov-dlya-muzhchiny-avtolyubitelya/</product/komplekt_zhidkiy_poluretan_prozrachnaya_baza_protect_sprayshield/
 
 ====
 Антидожди
@@ -56,8 +43,6 @@
 Универсальность. Подходит для всех типов автомобилей, от легковых до грузовых. 
 Антидождь – это проявление заботы о комфорте и безопасности на дороге. Подарок будет по достоинству оценен и начинающим водителем, и опытным автолюбителем.
 
-Ссылки
-- https://sappo.ru/blog/obzory-tovarov/idei-podarkov-dlya-muzhchiny-avtolyubitelya/</product/aquapel_glass_treatment_v_blistere_antidozhd_dlya_stekol_kapsula_akvapel_1sht/
 
 ====
 Ароматизаторы
@@ -69,8 +54,6 @@
 - Компактность. Маленький, но стильный аксессуар, который не займет много места. 
 Можно выбрать подходящие ароматизаторы — подвесные, гелевые, спреи или в виде компактных диспенсеров, и они подойдут для любого автомобиля. Это простой знак внимания, который точно сделает повседневные поездки приятнее.
 
-Ссылки
-- https://sappo.ru/blog/obzory-tovarov/idei-podarkov-dlya-muzhchiny-avtolyubitelya/</catalog/moyka_i_ukhod/interer/aromatizatory/
 
 ====
 Автошампуни
@@ -82,8 +65,6 @@
 - Экономия времени. Средства высокого качества облегчают процесс мойки, позволяя тратить меньше усилий и получать отличный результат. 
 Можно выбрать вариант с полирующим эффектом или универсальный концентрат для повседневного ухода.
 
-Ссылки
-- https://sappo.ru/blog/obzory-tovarov/idei-podarkov-dlya-muzhchiny-avtolyubitelya/</catalog/moyka_i_ukhod/eksterer/pervichnye_shampuni/
 
 ====
 Оборудование для химчистки
@@ -91,9 +72,6 @@
 С хорошим оборудованием автовладелец сможет очищать любые поверхности в салоне: обивку сидений, коврики, двери, пластик приборной панели и даже воздуховоды. Специализированная техника позволяет справляться с въевшейся грязью и неприятными запахами, улучшая внешний вид и атмосферу в автомобиле. 
 Что можно подарить мужчине автолюбителю на день рождения из этой категории? Например, специальную насадку для шуруповерта в виде щетки с жесткой щетиной. Она может использоваться для глубокой комплексной чистки интерьера. Если же ищете вариант дороже, можно остановиться на Tornador C-20. Это легкий профессиональный распылитель для химчистки, который подходит для удаления стойких загрязнений — в том числе, с пластика.
 
-Ссылки
-- https://sappo.ru/blog/obzory-tovarov/idei-podarkov-dlya-muzhchiny-avtolyubitelya/</product/shchetka_nasadka_dlya_chistki_interera_zhestkaya_shchetina_dlya_shurupoverta_smart_open/
-- https://sappo.ru/blog/obzory-tovarov/idei-podarkov-dlya-muzhchiny-avtolyubitelya/</product/tornador_c_20_raspylitel_dlya_khimchistki_tornado/
 
 ====
 Средства для устранения запахов
@@ -105,7 +83,5 @@
 Продолжительный эффект. Средства для устранения запахов для детейлинга долго действуют, не требуют частого применения и справляются даже с сильными запахами за одну обработку. Это экономит время и средства на регулярное освежение воздуха в салоне. 
 Если не знаете, что подарить мужчине в новую машину, выбирайте нейтрализаторы или дымовые шашки. Средства для устранения запахов помогут мужчине поддерживать свежую атмосферу в автомобиле, устраняя даже сложные запахи. Это полезный и практичный подарок. Он пригодится в повседневных и в продолжительных поездках, а также перед важными встречами, где важен не только внешний вид авто, но и приятная атмосфера внутри.
 
-Ссылки
-- https://sappo.ru/blog/obzory-tovarov/idei-podarkov-dlya-muzhchiny-avtolyubitelya/</catalog/moyka_i_ukhod/interer/ustranenie_zapakhov/
 
 ====

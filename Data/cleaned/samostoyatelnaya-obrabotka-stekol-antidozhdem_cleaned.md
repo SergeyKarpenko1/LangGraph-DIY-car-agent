@@ -2,12 +2,6 @@
 Водоотталкивающее средство для стекол NanoGlass от Shine Systems, а для зеркал — Glaco Mirror Coat Zero. Также взял средства для подготовки к обработке — Hybrid Ceramic Detailer от Meguiar\'s и Glass Compound Z от Soft99. 
 010-samostoyatelnaya-obrabotka-stekol-antidozhdem.jpg
 
-Ссылки
-- https://sappo.ru/blog/sam-sebe-detailer/samostoyatelnaya-obrabotka-stekol-antidozhdem/<https:/sappo.ru/catalog/zashchitnye_pokrytiya/dlya_stekol_far_i_zerkal/26718/
-- https://sappo.ru/blog/sam-sebe-detailer/samostoyatelnaya-obrabotka-stekol-antidozhdem/<https:/sappo.ru/catalog/zashchitnye_pokrytiya/dlya_stekol_far_i_zerkal/24201/
-- https://sappo.ru/blog/sam-sebe-detailer/samostoyatelnaya-obrabotka-stekol-antidozhdem/<https:/sappo.ru/catalog/zashchitnye_pokrytiya/voski_gleyzy_silanty/23450/
-- https://sappo.ru/blog/sam-sebe-detailer/samostoyatelnaya-obrabotka-stekol-antidozhdem/<https:/sappo.ru/catalog/moyka_i_ukhod/eksterer/ukhod_za_steklami/23911/
-- https://sappo.ru/blog/sam-sebe-detailer/samostoyatelnaya-obrabotka-stekol-antidozhdem/
 
 ====
 Приступим к обработке стекол

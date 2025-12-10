@@ -1,8 +1,6 @@
 Что я приобрел в Sappo
 1) Набор удлиненных щеток для чистки труднодоступных мест; 2) Motor Star[](https://sappo.ru/blog/sam-sebe-detailer/samostoyatelnaya-moyka-dvigatelya/<https:/sappo.ru/catalog/moyka_i_ukhod/eksterer/moyka_dvigatelya/21586/ от Smart Open, очиститель двигателя-диэлектрик; 3) Motor Protector от Smart Open, консервант подкапотного пространства; 4) Микрофибровые салфетки.
 
-Ссылки
-- https://sappo.ru/blog/sam-sebe-detailer/samostoyatelnaya-moyka-dvigatelya/<https:/sappo.ru/catalog/moyka_i_ukhod/eksterer/moyka_dvigatelya/21590/
 
 ====
 Приступим к мойке двигателя
@@ -11,8 +9,6 @@
 Оставляем очиститель минут на 5 для реакции, а затем приступаем к ручной чистке. Вот тут длинные щетки будут кстати, так как они с легкостью достают до разных углублений и пазов, коих тут множество. Средство работает эффективно, и все присохшая масляная грязь с легкостью отходит. 
 Теперь можно промывать водой! У меня вместо керхера обычный шланг из колодца с насадкой садовой лейки.
 
-Ссылки
-- https://sappo.ru/blog/sam-sebe-detailer/samostoyatelnaya-moyka-dvigatelya/
 
 ====
 Сушка и нанесение консерванта

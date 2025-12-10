@@ -18,9 +18,6 @@
 Нанесите раствор Koch Pool Star с водой тем же вспенивателем, а затем обработайте загрязнения щеткой или микрофибровой салфеткой ( в зависимости от интенсивности загрязнения) Не забудьте протереть поверхности насухо! 
 Вообще с помощью Koch Pool Star можно очистить все что угодно, включая вещи и обувь (замшу, кожу, текстиль — без разницы). Текстильные салоны авто отмывает на ура. Рекомендую!
 
-Ссылки
-- https://sappo.ru/blog/sam-sebe-detailer/kak-legko-i-bystro-pochistit-kozhu-i-alkantaru/<https:/sappo.ru/catalog/moyka_i_ukhod/interer/ukhod_za_tkanyu/24058/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-legko-i-bystro-pochistit-kozhu-i-alkantaru/<https:/sappo.ru/catalog/aksessuary/triggery_raspylitelib_emkosti_i_vedra/26732/
 
 ====
 Чистка кожи

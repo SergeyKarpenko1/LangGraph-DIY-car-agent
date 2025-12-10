@@ -68,23 +68,5 @@ sappo-uhod-za-plastikovimi-elementami-salona-033.jpg
 Средства для обновления внешнего вида пластика
 Также на полках наших магазинов вы сможете встретить консерванты пластика, которые способны скрыть незначительные дефекты и придать пластику эффект новизны. У компании Shine Systems в линейке есть матовая полироль для пластика салона VinylMatt Cherry с ароматом вишни. У Koch Chemie есть Quick & Shine - универсальное средство для быстрого восстановления поверхности. Компания Gyeon может похвастаться своим продуктом Q2M Preserve на основе кварца. 
 
-Ссылки
-- https://sappo.ru/blog/obzory-tovarov/ukhod-za-plastikovymi-elementami-salona/
-- https://sappo.ru/blog/obzory-tovarov/ukhod-za-plastikovymi-elementami-salona/<https:/sappo.ru/blog/obzory-tovarov/kak-pridat-naruzhnomu-plastiku-pervonachalnyy-vneshniy-vid/
-- https://sappo.ru/blog/obzory-tovarov/ukhod-za-plastikovymi-elementami-salona/<https:/sappo.ru/catalog/moyka_i_ukhod/eksterer/ochistiteli/27737/
-- https://sappo.ru/blog/obzory-tovarov/ukhod-za-plastikovymi-elementami-salona/<https:/sappo.ru/catalog/moyka_i_ukhod/eksterer/ochistiteli/21581/
-- https://sappo.ru/blog/obzory-tovarov/ukhod-za-plastikovymi-elementami-salona/<https:/sappo.ru/catalog/moyka_i_ukhod/interer/vnutrenniy_plastik/22044/
-- https://sappo.ru/blog/obzory-tovarov/ukhod-za-plastikovymi-elementami-salona/<https:/sappo.ru/catalog/moyka_i_ukhod/interer/ukhod_za_tkanyu/28065/
-- https://sappo.ru/blog/obzory-tovarov/ukhod-za-plastikovymi-elementami-salona/<https:/sappo.ru/catalog/moyka_i_ukhod/interer/vnutrenniy_plastik/22930/
-- https://sappo.ru/blog/obzory-tovarov/ukhod-za-plastikovymi-elementami-salona/<https:/sappo.ru/catalog/moyka_i_ukhod/interer/vnutrenniy_plastik/27870/
-- https://sappo.ru/blog/obzory-tovarov/ukhod-za-plastikovymi-elementami-salona/<https:/sappo.ru/catalog/moyka_i_ukhod/interer/vnutrenniy_plastik/27758/
-- https://sappo.ru/blog/obzory-tovarov/ukhod-za-plastikovymi-elementami-salona/<https:/sappo.ru/catalog/moyka_i_ukhod/interer/vnutrenniy_plastik/23508/
-- https://sappo.ru/blog/obzory-tovarov/ukhod-za-plastikovymi-elementami-salona/<https:/sappo.ru/catalog/moyka_i_ukhod/interer/vnutrenniy_plastik/27854/
-- https://sappo.ru/blog/obzory-tovarov/ukhod-za-plastikovymi-elementami-salona/<https:/sappo.ru/catalog/moyka_i_ukhod/interer/vnutrenniy_plastik/24379/
-- https://sappo.ru/blog/obzory-tovarov/ukhod-za-plastikovymi-elementami-salona/<https:/sappo.ru/catalog/moyka_i_ukhod/interer/vnutrenniy_plastik/28362/
-- https://sappo.ru/blog/obzory-tovarov/ukhod-za-plastikovymi-elementami-salona/<https:/sappo.ru/catalog/moyka_i_ukhod/interer/vnutrenniy_plastik/23262/
-- https://sappo.ru/blog/obzory-tovarov/ukhod-za-plastikovymi-elementami-salona/<https:/sappo.ru/product/shine_systems_vinylmatt_cherry_matovaya_polirol_dlya_plastika_salona_750_ml/
-- https://sappo.ru/blog/obzory-tovarov/ukhod-za-plastikovymi-elementami-salona/<https:/sappo.ru/product/quick_shine_elegant_koch_chemie_konditsioner_lyuboy_poverkhnosti_1l/
-- https://sappo.ru/blog/obzory-tovarov/ukhod-za-plastikovymi-elementami-salona/<https:/sappo.ru/product/preserve_kvartsevyy_konservant_platsika_interera_gyeon_250_ml/
 
 ====

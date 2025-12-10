@@ -99,13 +99,4 @@
 : Sappo
 
 
-Ссылки
-- https://sappo.ru/blog/sam-sebe-detailer/kak-pravilno-otpolirovat-lobovoe-steklo/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-pravilno-otpolirovat-lobovoe-steklo/</catalog/aksessuary/triggery_raspylitelib_emkosti_i_vedra/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-pravilno-otpolirovat-lobovoe-steklo/<https:/sappo.ru/catalog/prochee/siz_i_gigiena/filter/brand-is-dry-monster-or-jeta-pro-or-reflexx-or-shine-systems/apply/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-pravilno-otpolirovat-lobovoe-steklo/</catalog/polirovka/malyarnye_lenty_i_skotchi/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-pravilno-otpolirovat-lobovoe-steklo/</catalog/polirovka/polirovalnye_pasty/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-pravilno-otpolirovat-lobovoe-steklo/</catalog/oborudovanie/polirovalnye_mashinki/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-pravilno-otpolirovat-lobovoe-steklo/</catalog/polirovka/krugi_i_podlozhki/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-pravilno-otpolirovat-lobovoe-steklo/</catalog/moyka_i_ukhod/eksterer/ukhod_za_steklami/
 ====

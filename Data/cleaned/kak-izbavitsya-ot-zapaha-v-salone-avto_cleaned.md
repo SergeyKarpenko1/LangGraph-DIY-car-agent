@@ -58,20 +58,5 @@
 - WhatsApp —  
 : Sappo
 
-Ссылки
-- https://sappo.ru/blog/sam-sebe-detailer/kak-izbavitsya-ot-zapaha-v-salone-avto/
-- 
-- 
-- 
-- https://sappo.ru/blog/sam-sebe-detailer/kak-izbavitsya-ot-zapaha-v-salone-avto/<https:/sappo.ru/product/meguiars_neytralizator_zapakha_air_re_fresher_summer_breeze_74_ml/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-izbavitsya-ot-zapaha-v-salone-avto/<https:/sappo.ru/product/dymovaya_bakteritsidnaya_shashka_carmate_40_ml/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-izbavitsya-ot-zapaha-v-salone-avto/<https:/sappo.ru/product/gut_duft_sredstvo_dlya_udaleniya_zapakha_0_5_l_borger/
-- https://sappo.ru/blog/sam-sebe-detailer/kak-izbavitsya-ot-zapaha-v-salone-avto/<https:/sappo.ru/product/fresh_up_new_nta_free_ustranitel_nepriyatnykh_zapakhov_1_l_koch_chemie/
-- 
-- 
-- 
-- 
-- 
-- 
 
 ====

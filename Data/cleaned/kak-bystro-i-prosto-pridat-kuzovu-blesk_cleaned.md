@@ -2,8 +2,6 @@
 Любой автолюбитель хочет, чтобы его автомобиль имел ухоженный вид и сиял чистотой 24/7. Но порой много времени на долгое «наведение марафета» у нас просто нет. Нанесение на кузов защитных покрытий типа восков или силантов - дело не пяти минут (и даже не пары часов), а после трудного рабочего дня хочется поскорее вернуться домой. Поэтому максимум что мы успеваем - это просто заехать на мойку самообслуживания и там сбить пыль с кузова. 
 Сегодня в Блоге мы расскажем вам как просто, а самое главное очень быстро, самостоятельно придать ослепительный вид кузову автомобиля. И поговорим мы про такую категорию средств, как Quik Detailer-ы. Quik Detailer, если дословно, означает «Быстрый Уход» (иногда «Быстрый Блеск»). В народе Quik Detailer имеет другое название — «Косметика для Ленивых». При нанесении Quik Detailer-ов вы получите защиту от выцветания, антистатический эффект и глубокий блеск.
 
-Ссылки
-- https://sappo.ru/blog/obzory-tovarov/kak-bystro-i-prosto-pridat-kuzovu-blesk/
 
 ====
 2 основных типа Quik Detailer-ов и их особенности
@@ -32,13 +30,6 @@ Quik Detailer-ы без труда справятся с подтеками во
 Если вы выбираете из недорогих средств, то мы посоветуем присмотреться к QUICK STEP компании Smart Open. QUICK STEP —это быстрое и эффективное средство для поддержания чистоты и блеска на различных поверхностях. Состав мгновенно справится с жирными следами, маслом, следами от пищи и напитков, пылью и другими загрязнениями. Помимо очищения средство возвращает поверхностям глубину цвета и делает их сияющими. Также QUICK STEP отличается приятным ароматом. 
 Хорошо зарекомендовал себя в уходе за всеми поверхностями QuickDetailer от компании Shine Systems. Состав прекрасно работает на стекле, хроме, пластике, виниле, дереве, лакокрасочном покрытии. Средство удаляет загрязнения, создавая при этом на поверхности специальный защитный слой, обладающий антистатическим и гидрофобным эффектом, что значительно облегчает последующие уборки.
 
-Ссылки
-- 
-- https://sappo.ru/blog/obzory-tovarov/kak-bystro-i-prosto-pridat-kuzovu-blesk/<https:/sappo.ru/product/s2_ochistitel_polirol_kuzova_500_ml_leraton/
-- https://sappo.ru/blog/obzory-tovarov/kak-bystro-i-prosto-pridat-kuzovu-blesk/<https:/sappo.ru/catalog/zashchitnye_pokrytiya/voski_gleyzy_silanty/24554/
-- https://sappo.ru/blog/obzory-tovarov/kak-bystro-i-prosto-pridat-kuzovu-blesk/<https:/sappo.ru/product/gyeon_quickdetailer_q2m_400ml_sostav_dlya_bystrogo_ukhoda_za_vsemi_poverkhnostyami_eksterera/
-- https://sappo.ru/blog/obzory-tovarov/kak-bystro-i-prosto-pridat-kuzovu-blesk/<https:/sappo.ru/catalog/moyka_i_ukhod/eksterer/ochistiteli/23546/
-- https://sappo.ru/blog/obzory-tovarov/kak-bystro-i-prosto-pridat-kuzovu-blesk/<https:/sappo.ru/catalog/moyka_i_ukhod/eksterer/ochistiteli/23100/
 
 ====
 Небюджетные, но крайне эффетивные гидрофобные средства
@@ -50,10 +41,5 @@ QuickDetailer Q2M – это многофункциональное средст
 До скорой встречи в нашем Блоге! 
 : Sappo
 
-Ссылки
-- 
-- https://sappo.ru/blog/obzory-tovarov/kak-bystro-i-prosto-pridat-kuzovu-blesk/<https:/sappo.ru/catalog/moyka_i_ukhod/eksterer/ochistiteli/27847/
-- 
-- https://sappo.ru/blog/obzory-tovarov/kak-bystro-i-prosto-pridat-kuzovu-blesk/<https:/sappo.ru/catalog/zashchitnye_pokrytiya/voski_gleyzy_silanty/22802/
 
 ====
