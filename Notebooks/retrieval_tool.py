@@ -19,6 +19,9 @@ from langchain_core.prompts import PromptTemplate
 from langchain_core.tools import tool
 from langchain_huggingface.embeddings import HuggingFaceEmbeddings
 
+from llm import gpt_oss_120b
+
+
 load_dotenv()
 
 from huggingface_hub import login
@@ -26,15 +29,6 @@ from huggingface_hub import login
 login(token=os.getenv("HUGGINGFACE_HUB_TOKEN"))
 
 embeddings = HuggingFaceEmbeddings(model_name="deepvk/USER-bge-m3")
-
-gpt_oss_20b = init_chat_model(
-    model="openai/gpt-oss-20b:free",
-    model_provider="openai",
-    api_key=os.getenv("OPENROUTER_API_KEY"),
-    base_url="https://openrouter.ai/api/v1",
-    # # прокидывание провайдер-специфичных аргументов:
-    extra_body={"temperature": 0}
-)
 
 # Параметры данных/индекса
 md_folder = "/Users/sergey/Desktop/Deteiling_agent/Data/cleaned"
@@ -166,7 +160,7 @@ extract_prompt_fewshot = PromptTemplate.from_template(
     "Return only the spans as specified."
 )
 
-extractor = LLMChainExtractor.from_llm(llm=gpt_oss_20b, prompt=extract_prompt_fewshot)
+extractor = LLMChainExtractor.from_llm(llm=gpt_oss_120b, prompt=extract_prompt_fewshot)
 
 ccr = ContextualCompressionRetriever(
     base_retriever=ensemble,
