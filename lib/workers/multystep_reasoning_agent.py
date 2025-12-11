@@ -24,7 +24,7 @@ from langgraph.types import Command, interrupt
 from pydantic import BaseModel, Field
 
 from Notebooks.llm import gpt_oss_20b, gpt_oss_120b
-from Notebooks.retrieval_tool import retriever_tool
+from lib.models.retrieval_tool import retriever_tool
 
 load_dotenv()
 

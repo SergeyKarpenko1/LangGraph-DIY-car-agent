@@ -1,5 +1,5 @@
 from langchain_core.messages import HumanMessage
-from retrieval_tool import retriever_tool
+from lib.models.retrieval_tool import retriever_tool
 
 
 def test_retriever_tool(query: str):
