@@ -20,13 +20,12 @@ from langchain_core.tools import tool
 from langchain_huggingface.embeddings import HuggingFaceEmbeddings
 from sentence_transformers import SentenceTransformer
 
+from lib.models.embedder import Embedder
+
 load_dotenv()
 
-from huggingface_hub import login
-
-login(token=os.getenv("HUGGINGFACE_HUB_TOKEN"))
-
-embeddings = HuggingFaceEmbeddings(model_name="deepvk/USER-bge-m3")
+embedder = Embedder()  # можно передать model_name="..." при желании
+embeddings = embedder.embeddings  # это HuggingFaceEmbeddings из LangChain
 
 md_folder = "/Users/sergey/Desktop/Deteiling_agent/Data/cleaned"
 
@@ -53,7 +52,7 @@ recursive_chunks: list[Document] = text_splitter.split_documents(docs)
 
 # print(recursive_chunks[0])
 
-persist_dir = "/Users/sergey/Desktop/Deteiling_agent/Data/ChromaDB"
+# persist_dir = "/Users/sergey/Desktop/Deteiling_agent/Data/ChromaDB"
 
 vectordb = Chroma(
     collection_name="VectorDB_deepvk_USER-bge-m3",
