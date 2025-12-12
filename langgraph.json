@@ -1,9 +1,7 @@
 {
   "dependencies": ["."],
-  
   "graphs": {
-    "Notebooks": "./Notebooks/multystep_reasoning_agent.py:graph"
-
+    "Notebooks": "./lib/workers/multystep_reasoning_agent.py:graph"
   },
   "env": "./.env"
 }
