@@ -19,7 +19,8 @@ from langchain_core.prompts import PromptTemplate
 from langchain_core.tools import tool
 from langchain_huggingface.embeddings import HuggingFaceEmbeddings
 
-from llm import gpt_oss_120b
+from lib.clients.llm import  gpt_oss_120b
+
 
 
 load_dotenv()
