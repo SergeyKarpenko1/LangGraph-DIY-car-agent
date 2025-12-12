@@ -8,6 +8,8 @@ and uses hybrid knowledge extraction from its own vector database and web search
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "grpcio>=1.76.0",
+    "grpcio-tools>=1.76.0",
     "isort>=6.1.0",
     "langchain>=0.3.27",
     "langchain-chroma>=0.2.6",
@@ -16,6 +18,7 @@ dependencies = [
     "langchain-huggingface>=0.3.1",
     "langchain-tavily>=0.2.12",
     "langgraph>=0.6.10",
+    "langgraph-cli[inmem]>=0.4.8",
     "markdown>=3.9",
     "matplotlib>=3.10.7",
     "pip>=25.3",
