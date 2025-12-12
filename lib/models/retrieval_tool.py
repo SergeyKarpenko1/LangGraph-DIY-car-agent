@@ -3,8 +3,9 @@ from typing import List, Optional
 
 from dotenv import load_dotenv
 
-from langchain.retrievers import EnsembleRetriever
-from langchain.tools.retriever import create_retriever_tool
+# from langchain.retrievers import EnsembleRetriever
+from langchain_classic.retrievers import EnsembleRetriever
+from langchain_core.tools import create_retriever_tool
 from langchain_chroma import Chroma
 from langchain_community.retrievers import BM25Retriever
 from langchain_core.documents import Document

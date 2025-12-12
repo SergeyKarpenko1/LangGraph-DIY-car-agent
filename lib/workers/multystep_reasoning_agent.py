@@ -3,9 +3,8 @@ from typing import List, Literal, TypedDict
 
 from dotenv import load_dotenv
 from langchain.chat_models import init_chat_model
-from langchain.schema import Document
-from langchain_chroma import Chroma
 from langchain_core.documents import Document
+from langchain_chroma import Chroma
 from langchain_core.messages import (
     AIMessage,
     BaseMessage,
@@ -23,16 +22,18 @@ from langgraph.prebuilt import ToolNode
 from langgraph.types import Command, interrupt
 from pydantic import BaseModel, Field
 
-from Notebooks.llm import gpt_oss_20b, gpt_oss_120b
+from lib.clients.llm import SimpleLLMFactory
 from lib.models.retrieval_tool import retriever_tool
+from lib.utils.constant import DOCS_KEY, GO_FLAG, MAX_REPHRASES
 
 load_dotenv()
 
-# Модель для генерации ответов
-llm_gpt_oss_120b = gpt_oss_120b
 
+factory = SimpleLLMFactory(temperature=0)
+# Модель для генерации ответов
+llm_gpt_oss_120b = factory.create("openai/gpt-oss-120b")
 # Модель для классификации документов и перефразирования
-llm_gpt_oss_20b = gpt_oss_20b
+llm_gpt_oss_20b = factory.create("openai/gpt-oss-20b")
 
 # Инструменты 
 tavily_search = TavilySearch()
@@ -61,10 +62,6 @@ class GradeDocumenr(BaseModel):
         description='Is the document relevanse to the question? Yes or No'
     )
 
-# Константы для единообразия
-DOCS_KEY = "documents"
-GO_FLAG  = "proceed_to_generate"
-MAX_REPHRASES = 1
 
 
 # ================== REWRITE ==================
