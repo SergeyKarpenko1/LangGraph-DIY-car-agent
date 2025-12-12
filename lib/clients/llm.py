@@ -1,24 +1,38 @@
+# lib/models/llm_factory.py
 
-from dotenv import load_dotenv
-load_dotenv()
-
-from langchain.chat_models import init_chat_model
 import os
+from dotenv import load_dotenv
+from langchain.chat_models import init_chat_model
 
-gpt_oss_20b = init_chat_model(
-    model="openai/gpt-oss-20b:free",
-    model_provider="openai",
-    api_key=os.getenv("OPENROUTER_API_KEY"),
-    base_url="https://openrouter.ai/api/v1",
-    # # прокидывание провайдер-специфичных аргументов:
-    extra_body={"temperature": 0}
-)
 
-gpt_oss_120b = init_chat_model(
-    model="openai/gpt-oss-120b",
-    model_provider="openai",
-    api_key=os.getenv("OPENROUTER_API_KEY"),
-    base_url="https://openrouter.ai/api/v1",
-    # # прокидывание провайдер-специфичных аргументов:
-    extra_body={"temperature": 0}
-)
+class SimpleLLMFactory:
+    """Простой класс для инициализации LLM через OpenRouter."""
+
+    def __init__(
+        self,
+        api_key: str | None = None,
+        base_url: str = "https://openrouter.ai/api/v1",
+        temperature: float = 0.0,
+    ):
+        load_dotenv()
+        self.api_key = api_key or os.getenv("OPENROUTER_API_KEY")
+        self.base_url = base_url
+        self.temperature = temperature
+
+    def create(self, model: str):
+        return init_chat_model(
+            model=model,
+            model_provider="openai",
+            api_key=self.api_key,
+            base_url=self.base_url,
+            extra_body={"temperature": self.temperature},
+        )
+    
+# Пример вызова
+
+# from lib.models.llm_factory import SimpleLLMFactory
+
+# factory = SimpleLLMFactory(temperature=0)
+
+# gpt_oss_20b = factory.create("openai/gpt-oss-20b:free")
+# gpt_oss_120b = factory.create("openai/gpt-oss-120b")
