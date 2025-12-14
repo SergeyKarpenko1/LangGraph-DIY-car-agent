@@ -943,10 +943,6 @@ def main() -> None:
 
     st.sidebar.markdown("---")
     st.session_state.show_actions = st.sidebar.checkbox("Show Agent Actions", value=bool(st.session_state.show_actions))
-    st.session_state.show_agentic_workflow = st.sidebar.checkbox(
-        "Afentic workflow",
-        value=bool(st.session_state.show_agentic_workflow),
-    )
 
     st.sidebar.markdown("---")
     show_basic_info = st.sidebar.checkbox("Show Basic Interactions", value=True)
