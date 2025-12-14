@@ -48,6 +48,8 @@ Deteiling Agent — это AI-ассистент для DIY детейлинга
 - `OPENROUTER_API_KEY` — ключ доступа к OpenRouter.
 - `HUGGINGFACE_HUB_TOKEN` — токен для загрузки эмбеддингов.
 - `TAVILY_API_KEY` — ключ для Tavily Search (необязателен, если веб-поиск не используется).
+- `CHROMA_PERSIST_DIR` — путь к папке ChromaDB (по умолчанию авто-выбор: `Data/processed/chromadb` или `Data/ChromaDB`).
+- `CHROMA_COLLECTION_NAME` — имя коллекции (по умолчанию `VectorDB_deepvk_USER-bge-m3`).
 
 ## Подготовка данных
 1. Сложите исходные Markdown-материалы по детейлингу в `Data/cleaned`.
@@ -79,6 +81,17 @@ python Notebooks/test_retr.py
   result = graph.invoke(initial_state)
   ```
   Во время выполнения возможны `interrupt`-события, требующие ручного решения.
+
+## Streamlit интерфейс (через FastAPI)
+1. Запустите FastAPI backend (SSE):
+   ```bash
+   uvicorn lib.handlers.app:app --reload --port 8000
+   ```
+2. Запустите Streamlit UI:
+   ```bash
+   streamlit run streamlit_app.py
+   ```
+По умолчанию UI подключается к `http://localhost:8000` и сохраняет `thread_id` в URL-параметрах.
 
 ## Тестирование
 На данный момент предусмотрен ручной тест ретривера (`Notebooks/test_retr.py`). Дополнительные проверки можно добавлять в формате pytest или LangGraph unit-тестов.

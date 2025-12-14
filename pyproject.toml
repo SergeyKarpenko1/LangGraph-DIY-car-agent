@@ -8,6 +8,7 @@ and uses hybrid knowledge extraction from its own vector database and web search
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "fastapi>=0.124.4",
     "grpcio>=1.76.0",
     "grpcio-tools>=1.76.0",
     "isort>=6.1.0",
@@ -26,7 +27,9 @@ dependencies = [
     "rank-bm25>=0.2.2",
     "sentence-transformers>=5.1.1",
     "spacy>=3.8.11",
+    "streamlit>=1.40.0",
     "unstructured>=0.18.15",
+    "requests>=2.32.0",
 ]
 
 [tool.isort]
