@@ -27,3 +27,4 @@ data/processed/*
 
 # Env
 .env
+.streamlit_app.py
