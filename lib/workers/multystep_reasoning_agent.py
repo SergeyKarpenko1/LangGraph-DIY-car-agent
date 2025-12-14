@@ -14,7 +14,7 @@ from langchain_core.messages import (
 )
 from langchain_core.prompts import ChatPromptTemplate, PromptTemplate
 from langchain_core.tools import tool
-from langchain_huggingface.embeddings import HuggingFaceEmbeddings
+
 from langchain_openai import ChatOpenAI
 from langchain_tavily import TavilySearch
 from langgraph.graph import END, StateGraph
@@ -25,6 +25,8 @@ from pydantic import BaseModel, Field
 from lib.clients.llm import SimpleLLMFactory
 from lib.models.retrieval_tool import retriever_tool
 from lib.utils.constant import DOCS_KEY, GO_FLAG, MAX_REPHRASES
+from langgraph.checkpoint.memory import InMemorySaver
+
 
 load_dotenv()
 
@@ -41,6 +43,7 @@ tools = [retriever_tool, tavily_search]
 
 llm_with_tools = llm_gpt_oss_120b.bind_tools(tools)
 tools_node = ToolNode(tools=tools)
+
 
 class AgentState(TypedDict):
     messages: List[BaseMessage]
@@ -531,4 +534,6 @@ graph.add_edge("off_topic_response", END)
 graph.add_edge("cannot_answer", END)
 
 
-graph = graph.compile()
+# graph = graph.compile()
+
+# langgraph_api.cli: uv run langgraph dev
