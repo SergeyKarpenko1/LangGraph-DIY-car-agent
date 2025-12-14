@@ -398,6 +398,7 @@ def _extract_actions_from_update(update: Any, meta: Dict[str, Any]) -> List[str]
         if isinstance(node, str) and node not in seen_nodes:
             seen_nodes.add(node)
             node_label = {
+                "classify": "Классифицирую вопрос",
                 "plan": "Планирование",
                 "tools": "Вызов инструмента",
                 "collect": "Сбор контекста",
