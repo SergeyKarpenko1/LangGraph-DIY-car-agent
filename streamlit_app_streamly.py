@@ -196,7 +196,8 @@ def _init_state() -> None:
     qp_thread_id = (qp.get("thread_id") or [None])[0]
     qp_backend = (qp.get("backend") or [None])[0]
 
-    st.session_state.setdefault("backend_url", qp_backend or "http://127.0.0.1:8000")
+    default_backend = os.getenv("BACKEND_URL", "http://127.0.0.1:8000")
+    st.session_state.setdefault("backend_url", qp_backend or default_backend)
     st.session_state.setdefault("thread_id", qp_thread_id or "")
     st.session_state.setdefault("chat", [])  # list[dict]
     st.session_state.setdefault("internals", [])  # list[dict]
