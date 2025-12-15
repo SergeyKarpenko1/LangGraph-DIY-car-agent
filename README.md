@@ -10,7 +10,7 @@ Deteiling Agent — это AI-ассистент для DIY детейлинга
 - SSE backend + Streamlit UI с отображением внутренних шагов и подсветкой собранных документов.
 - Набор утилит для создания/обновления векторной базы и проверки ретривера.
 
-![Скриншот графа](￼￼https://github.com/SergeyKarpenko1/LangGraph-DIY-car-agent/blob/work/AgenticWorkflow.png) 
+![Скриншот графа](https://github.com/SergeyKarpenko1/LangGraph-DIY-car-agent/blob/work/AgenticWorkflow.png) 
 
 ## Используемые технологии
 - Python 3.12, uv
