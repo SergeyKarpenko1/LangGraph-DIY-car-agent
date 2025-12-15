@@ -16,7 +16,6 @@ from langchain_core.messages import (
     BaseMessage,
     HumanMessage,
     AIMessage,
-    SystemMessage,
     ToolMessage,
 )
 from langchain_core.documents import Document

@@ -1,11 +1,8 @@
-import os
 import json
 from typing import List, Literal, TypedDict
 
 from dotenv import load_dotenv
-from langchain.chat_models import init_chat_model
 from langchain_core.documents import Document
-from langchain_chroma import Chroma
 from langchain_core.messages import (
     AIMessage,
     BaseMessage,
@@ -13,11 +10,9 @@ from langchain_core.messages import (
     SystemMessage,
     ToolMessage,
 )
-from langchain_core.prompts import ChatPromptTemplate, PromptTemplate
-from langchain_core.tools import tool
+from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.runnables import RunnableConfig
 
-from langchain_openai import ChatOpenAI
 from langchain_tavily import TavilySearch
 from langgraph.graph import END, StateGraph
 from langgraph.prebuilt import ToolNode
