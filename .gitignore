@@ -1,12 +1,31 @@
-# Python-generated files
+# Python
 __pycache__/
-*.py[oc]
-build/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.build/
 dist/
-wheels/
-*.egg-info
 
-# Virtual environments
-.venv
+# venv
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Env
 .env
-.DS_Store
+.streamlit_app.py
+.multystep_reasoning_agent.py
