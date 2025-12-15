@@ -37,9 +37,9 @@ llm_gpt_oss_120b = factory.create("openai/gpt-oss-120b")
 # Модель для классификации документов и перефразирования
 llm_gpt_oss_20b = factory.create("openai/gpt-oss-20b")
 
-# Инструменты 
+# Инструменты
 tavily_search = TavilySearch()
-tools = [retriever_tool, tavily_search]     
+tools = [retriever_tool, tavily_search]
 
 llm_with_tools = llm_gpt_oss_120b.bind_tools(tools)
 tools_node = ToolNode(tools=tools)
@@ -53,18 +53,19 @@ class AgentState(TypedDict):
     proceed_to_generate: bool
     rephrase_count: int
     question: HumanMessage
-    force_web: bool         
+    force_web: bool
+
 
 class GradeQuestion(BaseModel):
-    score: Literal['Yes', 'No'] = Field(
-        description='Is the question relevanse to the topic? Yes or No'
+    score: Literal["Yes", "No"] = Field(
+        description="Is the question relevanse to the topic? Yes or No"
     )
+
 
 class GradeDocumenr(BaseModel):
-    score: Literal['Yes', 'No'] = Field(
-        description='Is the document relevanse to the question? Yes or No'
+    score: Literal["Yes", "No"] = Field(
+        description="Is the document relevanse to the question? Yes or No"
     )
-
 
 
 # ================== REWRITE ==================
@@ -90,7 +91,12 @@ def question_rewriter(state: AgentState):
             c = x.get("content", "")
             if isinstance(c, list):
                 c = "\n".join(
-                    (seg.get("text","") if isinstance(seg, dict) and seg.get("type") in ("text","input_text") else str(seg))
+                    (
+                        seg.get("text", "")
+                        if isinstance(seg, dict)
+                        and seg.get("type") in ("text", "input_text")
+                        else str(seg)
+                    )
                     for seg in c
                 )
             return str(c)
@@ -105,7 +111,9 @@ def question_rewriter(state: AgentState):
                 hm = HumanMessage(content=_to_text(msgs[-1]))
                 state["messages"].append(hm)
             else:
-                raise ValueError("question_rewriter: ни 'question', ни содержимого в 'messages' не найдено.")
+                raise ValueError(
+                    "question_rewriter: ни 'question', ни содержимого в 'messages' не найдено."
+                )
         state["question"] = hm
     else:
         if isinstance(q, HumanMessage):
@@ -123,13 +131,19 @@ def question_rewriter(state: AgentState):
         current_question = state["question"].content
 
         normalize = lambda v: (
-            "\n".join(p.get("text","") if isinstance(p, dict) and "text" in p else str(p) for p in v)
-            if isinstance(v, list) else str(v)
+            "\n".join(
+                p.get("text", "") if isinstance(p, dict) and "text" in p else str(p)
+                for p in v
+            )
+            if isinstance(v, list)
+            else str(v)
         )
 
         history_text = "\n".join(
-            normalize(m.content) if isinstance(m, BaseMessage)
-            else normalize(m.get("content","")) if isinstance(m, dict)
+            normalize(m.content)
+            if isinstance(m, BaseMessage)
+            else normalize(m.get("content", ""))
+            if isinstance(m, dict)
             else normalize(m)
             for m in state["messages"][:-1]
         )
@@ -153,6 +167,7 @@ def question_rewriter(state: AgentState):
     from langgraph.types import (
         interrupt,  # если импорт уже есть сверху — оставьте его там
     )
+
     original = state["question"].content
     rephr = state["rephrased_question"]
 
@@ -164,7 +179,7 @@ def question_rewriter(state: AgentState):
         ),
         "original_question": original,
         "rephrased_question": rephr,
-        "options": ["approve_rephrased", "use_original", "edit"]
+        "options": ["approve_rephrased", "use_original", "edit"],
     }
     decision = interrupt(payload)
 
@@ -205,38 +220,49 @@ def question_rewriter(state: AgentState):
 
     return state
 
+
 # ================== CLASSIFY ==================
 def question_classifier(state: AgentState) -> AgentState:
     print("Entering question_classifier")
 
-    system_message = SystemMessage(content=(
-        "You are a strict binary classifier. Decide if the question is about DIY car care / detailing or about car.\n"
-        "Answer EXACTLY 'Yes' or 'No'. No explanations."
-    ))
+    system_message = SystemMessage(
+        content=(
+            "You are a strict binary classifier. Decide if the question is about DIY car care / detailing or about car.\n"
+            "Answer EXACTLY 'Yes' or 'No'. No explanations."
+        )
+    )
     # ВАЖНО: кавычки в f-строке
-    human_message = HumanMessage(content=f"User question: {state['rephrased_question']}")
+    human_message = HumanMessage(
+        content=f"User question: {state['rephrased_question']}"
+    )
 
-    grade_prompt = ChatPromptTemplate.from_messages([system_message, human_message]).format_messages()
+    grade_prompt = ChatPromptTemplate.from_messages(
+        [system_message, human_message]
+    ).format_messages()
     # Без structured_output — парсим текстом (надёжно для любого провайдера)  [oai_citation:5‡python.langchain.com](https://python.langchain.com/docs/concepts/structured_outputs/?utm_source=chatgpt.com)
     result = llm_gpt_oss_120b.invoke(grade_prompt)
-    state["on_topic"] = (result.content or "").strip().lower().startswith("y") and "Yes" or "No"
+    state["on_topic"] = (
+        (result.content or "").strip().lower().startswith("y") and "Yes" or "No"
+    )
     print(f"[question_classifier] on_topic={state['on_topic']}")
     return state
+
 
 # ================== TOPIC ROUTER ==================
 def on_topic_router(state: AgentState) -> str:
     print("Entering on_topic_router")
-    on_topic = (state.get("on_topic","") or "").strip().lower()
+    on_topic = (state.get("on_topic", "") or "").strip().lower()
     if on_topic == "yes":
         print("Routing to plan")
         return "plan"
     print("Routing to off_topic_response")
     return "off_topic_response"
 
+
 # ================== PLAN / TOOL CALL ==================
 def plan_or_call_tool(state: AgentState) -> AgentState:
     """Сгенерировать AIMessage с вызовом инструмента.
-       По умолчанию — retrieve_in_vectordb; при force_web=True — tavily_search."""
+    По умолчанию — retrieve_in_vectordb; при force_web=True — tavily_search."""
     rephrased_question = state["rephrased_question"]
 
     if state.get("force_web"):
@@ -260,12 +286,16 @@ def plan_or_call_tool(state: AgentState) -> AgentState:
                 "Do not answer before retrieval."
             )
         )
-        user = HumanMessage(content=f"Retrieve context for this question: {rephrased_question}")
+        user = HumanMessage(
+            content=f"Retrieve context for this question: {rephrased_question}"
+        )
         ai: AIMessage = llm_with_tools.invoke([system_message, user])
 
     return {"messages": (state.get("messages") or []) + [system_message, user, ai]}
 
+
 # ================== COLLECT CONTEXT ==================def collect_context(state: AgentState) -> AgentState:
+
 
 def collect_context(state: AgentState) -> AgentState:
     messages = state.get("messages") or []
@@ -290,8 +320,10 @@ def collect_context(state: AgentState) -> AgentState:
                     # если не JSON — используем как простой текст
                     if payload.strip():
                         docs.append(
-                            Document(page_content=payload.strip(),
-                                     metadata={"provider": tool_name or "tool"})
+                            Document(
+                                page_content=payload.strip(),
+                                metadata={"provider": tool_name or "tool"},
+                            )
                         )
                     payload = None  # чтобы ниже не дублировать
 
@@ -312,10 +344,12 @@ def collect_context(state: AgentState) -> AgentState:
                 # опционально добавим краткий "answer" как отдельный документ
                 ans = payload.get("answer")
                 if isinstance(ans, str) and ans.strip():
-                    docs.append(Document(
-                        page_content=ans.strip(),
-                        metadata={"provider": "tavily", "type": "answer"}
-                    ))
+                    docs.append(
+                        Document(
+                            page_content=ans.strip(),
+                            metadata={"provider": "tavily", "type": "answer"},
+                        )
+                    )
             elif isinstance(payload, list):
                 items = payload
             elif payload is not None:
@@ -329,23 +363,35 @@ def collect_context(state: AgentState) -> AgentState:
                     url = r.get("url") or ""
                     text = r.get("content") or r.get("snippet") or title or url or ""
                     if text.strip():
-                        docs.append(Document(
-                            page_content=text.strip(),
-                            metadata={"source": url, "title": title, "provider": "tavily"}
-                        ))
+                        docs.append(
+                            Document(
+                                page_content=text.strip(),
+                                metadata={
+                                    "source": url,
+                                    "title": title,
+                                    "provider": "tavily",
+                                },
+                            )
+                        )
                 else:
-                    docs.append(Document(
-                        page_content=str(r),
-                        metadata={"provider": "tavily"}
-                    ))
+                    docs.append(
+                        Document(page_content=str(r), metadata={"provider": "tavily"})
+                    )
 
         # 3) Иные инструменты, которые вернули список строк/словари
         elif isinstance(payload, list):
             for r in payload:
                 if isinstance(r, dict):
-                    text = r.get("page_content") or r.get("content") or r.get("text") or ""
+                    text = (
+                        r.get("page_content") or r.get("content") or r.get("text") or ""
+                    )
                     if text.strip():
-                        docs.append(Document(page_content=text.strip(), metadata=r.get("metadata") or {}))
+                        docs.append(
+                            Document(
+                                page_content=text.strip(),
+                                metadata=r.get("metadata") or {},
+                            )
+                        )
                 elif r:
                     docs.append(Document(page_content=str(r)))
 
@@ -354,6 +400,7 @@ def collect_context(state: AgentState) -> AgentState:
     state[GO_FLAG] = len(docs) > 0
     state["force_web"] = False
     return state
+
 
 # ================== GRADE RETRIEVAL ==================
 def retrieval_grader(state: AgentState) -> AgentState:
@@ -365,10 +412,14 @@ def retrieval_grader(state: AgentState) -> AgentState:
         print("retrieval_grader: no documents; proceed_to_generate=False")
         return state
 
-    sys = SystemMessage(content="You are a grader. Answer exactly 'Yes' or 'No'. No explanations.")
+    sys = SystemMessage(
+        content="You are a grader. Answer exactly 'Yes' or 'No'. No explanations."
+    )
     kept: List[Document] = []
     for d in docs:
-        hm = HumanMessage(content=f"User question:\n{state['rephrased_question']}\n\nRetrieved document:\n{d.page_content}")
+        hm = HumanMessage(
+            content=f"User question:\n{state['rephrased_question']}\n\nRetrieved document:\n{d.page_content}"
+        )
         prompt = ChatPromptTemplate.from_messages([sys, hm]).format_messages()
         try:
             res = llm_gpt_oss_20b.invoke(prompt)
@@ -383,6 +434,7 @@ def retrieval_grader(state: AgentState) -> AgentState:
     state[GO_FLAG] = len(kept) > 0
     print(f"retrieval_grader: kept={len(kept)} {GO_FLAG}={state[GO_FLAG]}")
     return state
+
 
 # ================== PROCEED ROUTER ==================
 def proceed_router(state: AgentState) -> str:
@@ -401,6 +453,7 @@ def proceed_router(state: AgentState) -> str:
     print("Routing to refine_question")
     return "refine_question"
 
+
 # ================== REFINE QUESTION ==================
 def refine_question(state: AgentState) -> AgentState:
     """Чуть перефразируем вопрос; НЕ вызываем ретривер в этом узле"""
@@ -411,8 +464,12 @@ def refine_question(state: AgentState) -> AgentState:
         return state
 
     original = state["rephrased_question"]
-    sys = SystemMessage(content="You slightly rephrase the user's question to improve retrieval. Return only the refined question.")
-    hm = HumanMessage(content=f"Original question: {original}\n\nProvide a slightly refined question.")
+    sys = SystemMessage(
+        content="You slightly rephrase the user's question to improve retrieval. Return only the refined question."
+    )
+    hm = HumanMessage(
+        content=f"Original question: {original}\n\nProvide a slightly refined question."
+    )
     prompt = ChatPromptTemplate.from_messages([sys, hm]).format_messages()
     response = llm_gpt_oss_120b.invoke(prompt)
     refined = (response.content or "").strip()
@@ -421,6 +478,7 @@ def refine_question(state: AgentState) -> AgentState:
     state["rephrased_question"] = refined
     state["rephrase_count"] = rc + 1
     return state
+
 
 # ================== GENERATE ANSWER ==================
 RAG_TEMPLATE = """Answer the question based on the following context and the chat history.
@@ -438,6 +496,7 @@ Question:
 rag_prompt = ChatPromptTemplate.from_template(RAG_TEMPLATE)
 rag_chain = rag_prompt | llm_gpt_oss_120b
 
+
 def _history_to_text(msgs: List[BaseMessage]) -> str:
     lines: List[str] = []
     for m in msgs or []:
@@ -453,6 +512,7 @@ def _history_to_text(msgs: List[BaseMessage]) -> str:
             lines.append(f"{role}: {m.content}")
     return "\n".join(lines)
 
+
 def generate_answer(state: AgentState) -> AgentState:
     print("Entering generate_answer")
     if not state.get("messages"):
@@ -463,11 +523,14 @@ def generate_answer(state: AgentState) -> AgentState:
     history_text = _history_to_text(state["messages"])
     q = state["rephrased_question"]
 
-    response = rag_chain.invoke({"question": q, "history": history_text, "context": context_text})
+    response = rag_chain.invoke(
+        {"question": q, "history": history_text, "context": context_text}
+    )
     generation = (response.content or "").strip()
     print(f"generate_answer: {generation[:160]}...")
     state["messages"] = (state.get("messages") or []) + [AIMessage(content=generation)]
     return state
+
 
 # ================== FALLBACKS ==================def cannot_answer(state: AgentState) -> AgentState | Command:
 def cannot_answer(state: AgentState) -> AgentState | Command:
@@ -476,27 +539,38 @@ def cannot_answer(state: AgentState) -> AgentState | Command:
         "message": (
             "Мы не нашли информации по вашему запросу в нашей базе данных. Выполнить поиск в интернете (Tavily) и дополнить ответ?"
         ),
-        "options": ["yes", "no"]
+        "options": ["yes", "no"],
     }
     decision = interrupt(payload)
 
-    dec = (decision if isinstance(decision, str)
-           else str(decision.get("decision",""))).strip().lower()
+    dec = (
+        (decision if isinstance(decision, str) else str(decision.get("decision", "")))
+        .strip()
+        .lower()
+    )
 
     if dec in ("yes", "y", "да", "ok"):
         # выставляем флаг и отправляемся обратно в plan → tools
         return Command(update={"force_web": True}, goto="plan")
     else:
         msgs = state.get("messages") or []
-        msgs.append(AIMessage(content="Извините, не удалось найти достаточный контекст для ответа."))
+        msgs.append(
+            AIMessage(
+                content="Извините, не удалось найти достаточный контекст для ответа."
+            )
+        )
         state["messages"] = msgs
         return state
+
 
 def off_topic_response(state: AgentState) -> AgentState:
     print("Entering off_topic_response")
     state["messages"] = state.get("messages") or []
-    state["messages"].append(AIMessage(content="Вопрос выходит за рамки DIY-ухода и детейлинга."))
+    state["messages"].append(
+        AIMessage(content="Вопрос выходит за рамки DIY-ухода и детейлинга.")
+    )
     return state
+
 
 graph = StateGraph(AgentState)
 
@@ -526,7 +600,11 @@ graph.add_edge("collect", "grade")
 graph.add_conditional_edges(
     "grade",
     proceed_router,
-    {"generate_answer": "generate_answer", "refine_question": "refine_question", "cannot_answer": "cannot_answer"},
+    {
+        "generate_answer": "generate_answer",
+        "refine_question": "refine_question",
+        "cannot_answer": "cannot_answer",
+    },
 )
 graph.add_edge("refine_question", "plan")
 graph.add_edge("generate_answer", END)

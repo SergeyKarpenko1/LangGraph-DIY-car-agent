@@ -6,5 +6,5 @@ RERANK_TOP_K = int(os.getenv("RERANK_TOP_K", "3"))
 
 # multystep_reasoning_agent
 DOCS_KEY = "documents"
-GO_FLAG  = "proceed_to_generate"
+GO_FLAG = "proceed_to_generate"
 MAX_REPHRASES = 1

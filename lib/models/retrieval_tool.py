@@ -30,7 +30,9 @@ class OptionalRerankRetriever(BaseRetriever):
 
     def __init__(self, base: BaseRetriever, use_reranker: bool = False, top_k: int = 6):
         reranker = Reranker() if use_reranker else None
-        super().__init__(base=base, use_reranker=use_reranker, top_k=top_k, reranker=reranker)
+        super().__init__(
+            base=base, use_reranker=use_reranker, top_k=top_k, reranker=reranker
+        )
 
     def _get_relevant_documents(self, query: str) -> List[Document]:
         docs = self.base.invoke(query)
@@ -62,12 +64,16 @@ if not persist_dir:
         repo_root / "Data" / "processed" / "chromadb",
         repo_root / "Data" / "ChromaDB",
     ]
+
     def _looks_like_chroma(p: Path) -> bool:
         return (p / "chroma.sqlite3").exists()
 
     chosen = next((p for p in candidate_dirs if _looks_like_chroma(p)), None)
     if chosen is None:
-        chosen = next((p for p in candidate_dirs if p.exists() and any(p.iterdir())), candidate_dirs[-1])
+        chosen = next(
+            (p for p in candidate_dirs if p.exists() and any(p.iterdir())),
+            candidate_dirs[-1],
+        )
     persist_dir = str(chosen)
 
 collection_name = os.getenv("CHROMA_COLLECTION_NAME", "VectorDB_deepvk_USER-bge-m3")
@@ -100,7 +106,9 @@ else:
     )
     base_retriever = mmr
 
-retriever = OptionalRerankRetriever(base_retriever, use_reranker=USE_RERANKER, top_k=RERANK_TOP_K)
+retriever = OptionalRerankRetriever(
+    base_retriever, use_reranker=USE_RERANKER, top_k=RERANK_TOP_K
+)
 
 retriever_tool = create_retriever_tool(
     retriever,

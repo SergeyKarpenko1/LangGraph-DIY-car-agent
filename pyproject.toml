@@ -32,6 +32,11 @@ dependencies = [
     "requests>=2.32.0",
 ]
 
+[dependency-groups]
+dev = [
+    "ruff>=0.14.8",
+]
+
 [tool.isort]
 profile = "black"
 

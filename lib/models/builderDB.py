@@ -3,7 +3,10 @@ from pathlib import Path
 
 from langchain_chroma import Chroma
 from langchain_text_splitters import RecursiveCharacterTextSplitter
-from langchain_community.document_loaders import DirectoryLoader, UnstructuredMarkdownLoader
+from langchain_community.document_loaders import (
+    DirectoryLoader,
+    UnstructuredMarkdownLoader,
+)
 from langchain_core.documents import Document
 
 
@@ -17,8 +20,8 @@ class SimpleChromaBuilder:
         persist_dir: str,
         collection_name: str,
         *,
-        chunk_size: int = 1200,          # <-- добавили
-        chunk_overlap: int = 150,        # (оставил тоже параметром — полезно, но можно убрать)
+        chunk_size: int = 1200,  # <-- добавили
+        chunk_overlap: int = 150,  # (оставил тоже параметром — полезно, но можно убрать)
     ) -> Chroma:
         # 1) открыть/создать коллекцию
         db = Chroma(
@@ -63,8 +66,9 @@ class SimpleChromaBuilder:
         db.add_documents(docs_to_add, ids=ids)
         return db
 
+
 # пример создания БД
-#     
+#
 # builder = SimpleChromaBuilder(embeddings)
 
 # vectordb = builder.build_or_load(
@@ -73,4 +77,4 @@ class SimpleChromaBuilder:
 #     collection_name="VectorDB_deepvk_USER-bge-m3",
 #     chunk_size=800,        # <-- настраиваете здесь
 #     chunk_overlap=120,
-# )   
+# )

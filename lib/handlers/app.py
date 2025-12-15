@@ -27,8 +27,8 @@ from lib.workers.multystep_reasoning_agent_stream import get_fastapi_graph
 from lib.utils.constant import DOCS_KEY, GO_FLAG
 
 
-
 # -------------------- Lifespan -------------------- #
+
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
@@ -39,7 +39,11 @@ async def lifespan(app: FastAPI):
 
     # Быстрая проверка “готовности” графа (особенно после ваших правок compile/checkpointer)
     g = app.state.graph
-    app.state.graph_ok = bool(getattr(g, "checkpointer", None)) and hasattr(g, "astream") and hasattr(g, "get_state")
+    app.state.graph_ok = (
+        bool(getattr(g, "checkpointer", None))
+        and hasattr(g, "astream")
+        and hasattr(g, "get_state")
+    )
     print(f"LIFESPAN: graph_ok={app.state.graph_ok}")
 
     yield
@@ -59,6 +63,7 @@ app.add_middleware(
 
 # -------------------- Middleware -------------------- #
 
+
 @app.middleware("http")
 async def simple_logger(request: Request, call_next):
     print(f"[Middleware] Incoming request: {request.method} {request.url.path}")
@@ -66,7 +71,9 @@ async def simple_logger(request: Request, call_next):
     print(f"[Middleware] Response status: {response.status_code}")
     return response
 
+
 # -------------------- Models --------------------
+
 
 class ChatStartRequest(BaseModel):
     user_message: str = Field(..., min_length=1)
@@ -79,6 +86,7 @@ class ChatResumeRequest(BaseModel):
 
 
 # -------------------- SSE helpers --------------------
+
 
 def _to_jsonable(obj: Any) -> Any:
     if isinstance(obj, BaseMessage):
@@ -113,7 +121,9 @@ def _msg_to_dict_sse(m: BaseMessage) -> Dict[str, Any]:
         base["name"] = tool_name
 
         artifact = getattr(m, "artifact", None)
-        if isinstance(artifact, list) and all(isinstance(d, Document) for d in artifact):
+        if isinstance(artifact, list) and all(
+            isinstance(d, Document) for d in artifact
+        ):
             base["artifact_count"] = len(artifact)
             base["artifact"] = [
                 {
@@ -149,15 +159,23 @@ def _msg_to_dict_sse(m: BaseMessage) -> Dict[str, Any]:
                             {
                                 "url": url,
                                 "title": r.get("title") or r.get("source") or url,
-                                "content": (r.get("content") or r.get("snippet") or "")[:260],
+                                "content": (r.get("content") or r.get("snippet") or "")[
+                                    :260
+                                ],
                             }
                         )
                     base["tavily_results"] = slim_results
-                    base["artifact_count"] = base.get("artifact_count") or len(slim_results)
+                    base["artifact_count"] = base.get("artifact_count") or len(
+                        slim_results
+                    )
 
             base["content"] = None
         else:
-            if isinstance(base.get("content"), str) and base["content"] and len(base["content"]) > 800:
+            if (
+                isinstance(base.get("content"), str)
+                and base["content"]
+                and len(base["content"]) > 800
+            ):
                 base["content"] = base["content"][:799] + "…"
 
     return base
@@ -167,7 +185,10 @@ def _to_jsonable_sse(obj: Any) -> Any:
     if isinstance(obj, BaseMessage):
         return _msg_to_dict_sse(obj)
     if isinstance(obj, Document):
-        return {"page_content": (obj.page_content or "")[:260], "metadata": obj.metadata}
+        return {
+            "page_content": (obj.page_content or "")[:260],
+            "metadata": obj.metadata,
+        }
     if isinstance(obj, dict):
         return {str(k): _to_jsonable_sse(v) for k, v in obj.items()}
     if isinstance(obj, (list, tuple)):
@@ -180,7 +201,11 @@ def _to_jsonable_sse(obj: Any) -> Any:
 
 
 def _sse(event: str | None, data: Any, *, slim: bool = False) -> str:
-    payload = json.dumps((_to_jsonable_sse(data) if slim else _to_jsonable(data)), ensure_ascii=False, default=str)
+    payload = json.dumps(
+        (_to_jsonable_sse(data) if slim else _to_jsonable(data)),
+        ensure_ascii=False,
+        default=str,
+    )
     out = ""
     if event:
         out += f"event: {event}\n"
@@ -201,7 +226,9 @@ def _msg_to_dict(m: BaseMessage) -> Dict[str, Any]:
         artifact = getattr(m, "artifact", None)
         if artifact is not None:
             # обычно это список Document (response_format="content_and_artifact")
-            if isinstance(artifact, list) and all(isinstance(d, Document) for d in artifact):
+            if isinstance(artifact, list) and all(
+                isinstance(d, Document) for d in artifact
+            ):
                 base["artifact"] = [
                     {
                         "page_content": (d.page_content or "")[:800],
@@ -288,6 +315,7 @@ def _load_or_init_state(thread_id: str, user_message: str) -> Dict[str, Any]:
 
 # -------------------- Streaming core --------------------
 
+
 async def _stream_graph_updates(input_obj: Any, thread_id: str):
     cfg = {"configurable": {"thread_id": thread_id}}
     yield _sse("meta", {"thread_id": thread_id}, slim=True)
@@ -296,7 +324,9 @@ async def _stream_graph_updates(input_obj: Any, thread_id: str):
     seen_nodes: set[str] = set()
     try:
         # ВАЖНО: список режимов => на выходе (mode, chunk)
-        async for mode, chunk in g.astream(input_obj, cfg, stream_mode=["messages", "tasks", "updates"]):
+        async for mode, chunk in g.astream(
+            input_obj, cfg, stream_mode=["messages", "tasks", "updates"]
+        ):
             if mode == "messages":
                 # chunk == (message_chunk, metadata)
                 msg_chunk, metadata = chunk
@@ -310,7 +340,11 @@ async def _stream_graph_updates(input_obj: Any, thread_id: str):
             if mode == "tasks":
                 # В режиме tasks прилетает событие старта: {"id","name","input",...}
                 # и событие окончания: {"id","name","result",...}
-                if isinstance(chunk, dict) and isinstance(chunk.get("name"), str) and "input" in chunk:
+                if (
+                    isinstance(chunk, dict)
+                    and isinstance(chunk.get("name"), str)
+                    and "input" in chunk
+                ):
                     node = chunk["name"]
                     if node not in seen_nodes:
                         seen_nodes.add(node)
@@ -321,7 +355,11 @@ async def _stream_graph_updates(input_obj: Any, thread_id: str):
                 # interrupt прилетает в __interrupt__
                 if isinstance(chunk, dict) and "__interrupt__" in chunk:
                     payload = _serialize_interrupt(chunk["__interrupt__"])
-                    yield _sse("interrupt", {"thread_id": thread_id, "payload": payload}, slim=True)
+                    yield _sse(
+                        "interrupt",
+                        {"thread_id": thread_id, "payload": payload},
+                        slim=True,
+                    )
                     return
 
                 # при желании оставьте update-ивенты (для дебага/статусов)
@@ -345,9 +383,11 @@ async def _stream_graph_updates(input_obj: Any, thread_id: str):
 
 # -------------------- Healthchecks -------------------- #
 
+
 @app.get("/health")
 async def healthcheck():
     return {"status": "ok"}
+
 
 @app.get("/ready")
 async def readiness():
@@ -357,6 +397,7 @@ async def readiness():
         raise HTTPException(status_code=503, detail={"status": "not_ready"})
     return {"status": "ok"}
 
+
 @app.get("/chat/state/{thread_id}")
 async def chat_state(thread_id: str):
     """Вернуть сохранённый state по thread_id (если есть checkpointer)."""
@@ -365,11 +406,14 @@ async def chat_state(thread_id: str):
     try:
         state = g.get_state(cfg).values
     except Exception as e:
-        raise HTTPException(status_code=404, detail={"thread_id": thread_id, "message": str(e)})
+        raise HTTPException(
+            status_code=404, detail={"thread_id": thread_id, "message": str(e)}
+        )
     return {"thread_id": thread_id, "state": _to_jsonable(state)}
 
 
 # -------------------- Endpoints --------------------
+
 
 @app.post("/chat/stream")
 async def chat_stream(req: ChatStartRequest):
@@ -410,5 +454,6 @@ async def chat_resume_stream(req: ChatResumeRequest):
         media_type="text/event-stream",
         headers=headers,
     )
+
 
 # uvicorn lib.handlers.app:app --reload --port 8000

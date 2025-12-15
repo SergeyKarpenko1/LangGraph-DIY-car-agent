@@ -17,7 +17,9 @@ class Reranker:
             "naver/xprovence-reranker-bgem3-v1",
         )
 
-        self.tokenizer = AutoTokenizer.from_pretrained(self.model_name, trust_remote_code=True)
+        self.tokenizer = AutoTokenizer.from_pretrained(
+            self.model_name, trust_remote_code=True
+        )
         self.model = AutoModel.from_pretrained(self.model_name, trust_remote_code=True)
         self.model.eval()
 
@@ -52,12 +54,16 @@ class Reranker:
         elif hasattr(out, "logits"):
             scores = out.logits.squeeze(-1)
         else:
-            raise RuntimeError("Model output does not contain ranking scores (ranking_scores/logits).")
+            raise RuntimeError(
+                "Model output does not contain ranking scores (ranking_scores/logits)."
+            )
 
         scores = scores.detach().float().cpu().tolist()
         return [float(s) for s in scores]
 
-    def rerank(self, query: str, docs: List[Document], top_k: int = 5) -> List[Document]:
+    def rerank(
+        self, query: str, docs: List[Document], top_k: int = 5
+    ) -> List[Document]:
         if not docs:
             return []
 
