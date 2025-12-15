@@ -24,6 +24,6 @@ format:
 
 lint:
 	# Линтинг кода ruff'ом
-	uv run --active ruff check $(CODE_PATHS)
+	uv run --active ruff check --fix $(CODE_PATHS)
 
 check: lint
