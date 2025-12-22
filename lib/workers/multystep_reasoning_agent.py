@@ -18,7 +18,7 @@ from langgraph.types import Command, interrupt
 from pydantic import BaseModel, Field
 
 from lib.clients.llm import SimpleLLMFactory
-from lib.models.retrieval_tool import retriever_tool
+from lib.MCP.mcp_retriever_tool_stdio import retrieve_in_vectordb as retriever_tool
 from lib.utils.constant import DOCS_KEY, GO_FLAG, MAX_REPHRASES
 
 
@@ -296,10 +296,10 @@ def collect_context(state: AgentState) -> AgentState:
     tool_messages = [m for m in messages if isinstance(m, ToolMessage)]
 
     docs: List[Document] = []
+    tool_name = None  # <-- добавьте
+
     if tool_messages:
         last_tool: ToolMessage = tool_messages[-1]
-
-        # имя инструмента (разные версии кладут либо .name, либо .tool)
         tool_name = getattr(last_tool, "name", None) or getattr(last_tool, "tool", None)
 
         # полезная нагрузка может быть в .artifact ИЛИ в .content
@@ -606,6 +606,6 @@ graph.add_edge("off_topic_response", END)
 graph.add_edge("cannot_answer", END)
 
 
-# graph = graph.compile()
+graph = graph.compile()
 
 # langgraph_api.cli: uv run langgraph dev
