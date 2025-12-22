@@ -30,6 +30,7 @@ dependencies = [
     "streamlit>=1.40.0",
     "unstructured>=0.18.15",
     "requests>=2.32.0",
+    "fastmcp>=2.14.1",
 ]
 
 [dependency-groups]
