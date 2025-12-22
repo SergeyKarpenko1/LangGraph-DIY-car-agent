@@ -5,6 +5,7 @@ Deteiling Agent — это AI-ассистент для DIY детейлинга
 
 ## Основные возможности
 - Гибридный ретривер: ChromaDB (MMR) + BM25, опциональный reranker на трансформере и компрессия ответов.
+- Поиск вынесен в отдельный MCP-сервер и подключен к LangGraph-агенту через STDIO (совместим с MCP Inspector).
 - Многошаговый граф LangGraph: переписывание вопроса, классификация, планирование вызова инструментов, оценка контекста, генерация ответа.
 - Human-in-the-loop через `interrupt`: подтверждение перефраза, решение о fallback на Tavily Search.
 - SSE backend + Streamlit UI с отображением внутренних шагов и подсветкой собранных документов.
@@ -24,8 +25,10 @@ Deteiling Agent — это AI-ассистент для DIY детейлинга
 ## Ключевые модули
 - `lib/clients/llm.py` — фабрика для моделей OpenRouter (включая streaming).
 - `lib/models/embedder.py`, `lib/models/builderDB.py`, `lib/clients/create_vector_db.py` — эмбеддинги и создание/обновление коллекции Chroma.
-- `lib/models/retrieval_tool.py` — гибридный retriever (MMR + BM25 + optional reranker) как LangChain-инструмент.
-- `lib/workers/multystep_reasoning_agent.py` — базовая версия графа.
+- `lib/models/retrieval_tool.py` — гибридный retriever (MMR + BM25 + optional reranker); используется MCP-сервером.
+- `lib/MCP/retriever_server.py` — MCP-сервер с инструментами `retrieve_in_vectordb` и `health`.
+- `lib/MCP/mcp_retriever_tool_stdio.py` — LangChain-инструмент-адаптер: запускает MCP-сервер как подпроцесс, делает MCP-вызов, возвращает `content` + `artifact` (List[Document]).
+- `lib/workers/multystep_reasoning_agent.py` — базовая версия графа (использует MCP-оболочку ретривера).
 - `lib/workers/multystep_reasoning_agent_stream.py` — потоковая версия графа c interrupt и checkpointer (используется FastAPI/CLI).
 - `lib/handlers/app.py` — FastAPI backend с SSE (`/chat/stream`, `/chat/resume/stream`).
 - `streamlit_app.py`, `streamlit_app_streamly.py` — Streamlit UI (Streamly-style отображает шаги графа, документы, Tavily результаты).
@@ -64,6 +67,21 @@ Deteiling Agent — это AI-ассистент для DIY детейлинга
 ### Smoke-тест ретривера
 ```bash
 uv run python tests/unit/test_retr.py
+```
+Тест проверяет базовую логику поиска, которая используется MCP-сервером.
+
+### MCP ретривер (STDIO)
+MCP-сервер запускается как stdio-процесс и предоставляет инструменты:
+- `retrieve_in_vectordb(query, k)` — JSON с контентом и метаданными.
+- `health()` — проверка работоспособности.
+
+Для проверки через MCP Inspector используйте команду:
+```bash
+python -m lib.MCP.retriever_server
+```
+или:
+```bash
+uv run python -m lib.MCP.retriever_server
 ```
 
 ### FastAPI + Streamlit (dev)
@@ -112,6 +130,7 @@ docker compose up --build
 ```
 Data/                # Markdown-данные и ChromaDB
 lib/                 # Клиенты, модели, графы, FastAPI и вспомогательные утилиты
+lib/MCP/             # MCP-сервер ретривера и STDIO-адаптер для LangChain
 Notebooks/           # Jupyter-ноутбуки для экспериментов и оценки качества
 streamlit_app*.py    # Streamlit UI (обычный и Streamly-style)
 langgraph.json       # Конфигурация LangGraph CLI
